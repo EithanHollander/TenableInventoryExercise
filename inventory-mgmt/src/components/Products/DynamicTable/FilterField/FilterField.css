@@ -1,0 +1,10 @@
+.show-filter-container {
+  display: flex;
+  position: relative;
+}
+
+.show-filter-button {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+}

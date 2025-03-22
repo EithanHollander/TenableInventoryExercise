@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "afeb9be7-8d69-4909-9b60-c40ae3ff967b",
+    "type": "book",
+    "name": "Seamless national installation",
+    "description": "A Mind Blowing Book",
+    "price": "14.95",
+    "author": "Dare Winsor",
+    "genre": "Comedy|Drama|Musical",
+    "pageCount": 173
+  },
+  {
+    "id": "bbee548d-b604-406c-a556-3ff06c12578f",
+    "type": "book",
+    "name": "Automated asynchronous attitude",
+    "description": "A Mind Blowing Book",
+    "price": "26.69",
+    "author": "Doria Goutcher",
+    "genre": "Drama|Romance",
+    "pageCount": 169
+  },
+  {
+    "id": "3de7bbbf-c6ca-4078-8d0b-ee0bcb92a68e",
+    "type": "book",
+    "name": "Reverse-engineered coherent hardware",
+    "description": "An Awful Book",
+    "price": "37.34",
+    "author": "Fremont Kubanek",
+    "genre": "Comedy",
+    "pageCount": 150
+  },
+  {
+    "id": "5d4cbe58-b6a4-430c-9cf6-58d800507362",
+    "type": "book",
+    "name": "Grass-roots value-added workforce",
+    "description": "A Readable Book",
+    "price": "28.38",
+    "author": "Sloan Ginni",
+    "genre": "Action|Drama",
+    "pageCount": 220
+  },
+  {
+    "id": "c1c72e70-05a2-41f9-a2af-afcb71d18c26",
+    "type": "book",
+    "name": "Assimilated client-driven strategy",
+    "description": "A Mind Blowing Book",
+    "price": "16.59",
+    "author": "Gracie Hinkens",
+    "genre": "Adventure|Romance",
+    "pageCount": 115
+  },
+  {
+    "id": "cb1163ea-8bf3-4ffe-98a3-fa54e14a5e91",
+    "type": "book",
+    "name": "Seamless secondary installation",
+    "description": "An Awful Book",
+    "price": "23.69",
+    "author": "Rainer Newbegin",
+    "genre": "Adventure|Animation|Children|Comedy|Fantasy",
+    "pageCount": 315
+  },
+  {
+    "id": "d201ee68-71e8-4db9-ae35-7ce576557cf5",
+    "type": "book",
+    "name": "Up-sized holistic hardware",
+    "description": "A Mind Blowing Book",
+    "price": "12.52",
+    "author": "Mirella Ruckman",
+    "genre": "Drama|War",
+    "pageCount": 183
+  },
+  {
+    "id": "8d70f48e-bce9-4792-93a2-8ffef62a06ec",
+    "type": "book",
+    "name": "Inverse executive hub",
+    "description": "A Mind Blowing Book",
+    "price": "18.77",
+    "author": "Joellen Sarjent",
+    "genre": "Crime",
+    "pageCount": 79
+  },
+  {
+    "id": "dc1e9bb8-d26b-4e2e-b3bf-16628147b176",
+    "type": "book",
+    "name": "Streamlined radical frame",
+    "description": "A Readable Book",
+    "price": "35.86",
+    "author": "Beret Lodwig",
+    "genre": "Drama",
+    "pageCount": 462
+  },
+  {
+    "id": "671fb515-bd6c-41e5-b507-e9c8955dfdf3",
+    "type": "book",
+    "name": "Vision-oriented actuating structure",
+    "description": "A Readable Book",
+    "price": "17.80",
+    "author": "Moina Burnall",
+    "genre": "Thriller",
+    "pageCount": 151
+  },
+  {
+    "id": "3a13ce19-6cd0-46f2-956b-bc6afb07fb48",
+    "type": "book",
+    "name": "Cross-platform upward-trending interface",
+    "description": "An Awful Book",
+    "price": "29.18",
+    "author": "Alvinia Shinfield",
+    "genre": "Comedy|Romance",
+    "pageCount": 208
+  },
+  {
+    "id": "7c52045c-38b8-440e-8447-abb4f509ad53",
+    "type": "book",
+    "name": "Open-source didactic focus group",
+    "description": "An Awful Book",
+    "price": "27.39",
+    "author": "Jodie Waliszek",
+    "genre": "Comedy",
+    "pageCount": 394
+  },
+  {
+    "id": "a4447ce1-3dd2-417c-b0ab-18d8b2c3387b",
+    "type": "book",
+    "name": "Operative motivating website",
+    "description": "A Mind Blowing Book",
+    "price": "35.77",
+    "author": "Xenia Berryann",
+    "genre": "Horror",
+    "pageCount": 414
+  },
+  {
+    "id": "e532064e-a7d9-41d3-b0a3-979e1d78452f",
+    "type": "book",
+    "name": "Intuitive 3rd generation open system",
+    "description": "A Readable Book",
+    "price": "36.33",
+    "author": "Robinetta Jemison",
+    "genre": "Drama",
+    "pageCount": 363
+  },
+  {
+    "id": "9abb6fc0-5fec-4e0f-92a3-90f3211ec8db",
+    "type": "book",
+    "name": "Cloned needs-based orchestration",
+    "description": "An Awful Book",
+    "price": "15.03",
+    "author": "Aggy Wavell",
+    "genre": "Comedy|Drama|Horror|Sci-Fi",
+    "pageCount": 434
+  },
+  {
+    "id": "93254c04-fde4-4968-9fde-feb1782ea7c7",
+    "type": "book",
+    "name": "Multi-lateral asynchronous archive",
+    "description": "A Mind Blowing Book",
+    "price": "11.24",
+    "author": "Nathan Loughnan",
+    "genre": "Drama|Romance",
+    "pageCount": 156
+  },
+  {
+    "id": "a82dc97d-f915-4c9f-a519-3b56bce42acd",
+    "type": "book",
+    "name": "Polarised heuristic local area network",
+    "description": "An Awful Book",
+    "price": "30.77",
+    "author": "Rowen Gunn",
+    "genre": "Crime|Drama",
+    "pageCount": 130
+  },
+  {
+    "id": "5a514197-60f2-4f31-82ef-f34d51f1591e",
+    "type": "book",
+    "name": "Multi-tiered radical process improvement",
+    "description": "A Readable Book",
+    "price": "10.48",
+    "author": "Alys Tandey",
+    "genre": "Action|Comedy|Drama",
+    "pageCount": 295
+  },
+  {
+    "id": "f1d9c636-d6e3-4930-bb4e-9b5afa734d95",
+    "type": "book",
+    "name": "Open-architected national utilisation",
+    "description": "A Mind Blowing Book",
+    "price": "33.74",
+    "author": "Erick Milnthorpe",
+    "genre": "Documentary",
+    "pageCount": 231
+  },
+  {
+    "id": "ac07e067-3fd3-4802-90a7-b8415621aa49",
+    "type": "book",
+    "name": "Balanced holistic protocol",
+    "description": "An Awful Book",
+    "price": "15.92",
+    "author": "Fannie Vine",
+    "genre": "Crime|Thriller",
+    "pageCount": 147
+  },
+  {
+    "id": "2c52c0a3-a012-486f-969a-7bfb60d2a939",
+    "type": "book",
+    "name": "Ergonomic multimedia Graphic Interface",
+    "description": "A Mind Blowing Book",
+    "price": "37.48",
+    "author": "Efrem Christene",
+    "genre": "Drama",
+    "pageCount": 57
+  },
+  {
+    "id": "402b6711-d088-49ff-9ddb-a556dd120481",
+    "type": "book",
+    "name": "Enhanced systematic open architecture",
+    "description": "A Readable Book",
+    "price": "30.80",
+    "author": "Gaylord McAnellye",
+    "genre": "Horror",
+    "pageCount": 209
+  },
+  {
+    "id": "63230127-0e4c-43b7-95ff-0bfab70c6e70",
+    "type": "book",
+    "name": "Balanced human-resource architecture",
+    "description": "A Readable Book",
+    "price": "19.11",
+    "author": "Wenonah Brane",
+    "genre": "Drama",
+    "pageCount": 455
+  },
+  {
+    "id": "99e36c9f-0f30-45b8-b9d7-93b691b4ea55",
+    "type": "book",
+    "name": "Synchronised multimedia help-desk",
+    "description": "A Readable Book",
+    "price": "37.68",
+    "author": "Trudie Cleve",
+    "genre": "Horror|Thriller",
+    "pageCount": 128
+  },
+  {
+    "id": "75383938-92bf-4458-b780-f4aa1a48b989",
+    "type": "book",
+    "name": "Digitized uniform access",
+    "description": "An Awful Book",
+    "price": "15.51",
+    "author": "Irena Syseland",
+    "genre": "Action",
+    "pageCount": 491
+  },
+  {
+    "id": "eb1e5298-dfab-4031-b295-f0ab33d5d371",
+    "type": "book",
+    "name": "Balanced system-worthy process improvement",
+    "description": "A Mind Blowing Book",
+    "price": "37.81",
+    "author": "Yvor Eighteen",
+    "genre": "Documentary",
+    "pageCount": 254
+  },
+  {
+    "id": "85688ecb-700f-430c-837a-8539120836a5",
+    "type": "book",
+    "name": "Automated discrete emulation",
+    "description": "A Mind Blowing Book",
+    "price": "23.19",
+    "author": "Barnaby Nussen",
+    "genre": "Drama|Thriller",
+    "pageCount": 263
+  },
+  {
+    "id": "b468f9a5-93ff-49f3-9ba3-c7ed5a0d4473",
+    "type": "book",
+    "name": "Devolved incremental orchestration",
+    "description": "A Readable Book",
+    "price": "31.39",
+    "author": "Lisetta Avard",
+    "genre": "Comedy|Drama|Romance",
+    "pageCount": 359
+  },
+  {
+    "id": "8edbc4ad-e9c9-4f88-b5c5-c45902ee7480",
+    "type": "book",
+    "name": "Managed intangible strategy",
+    "description": "A Mind Blowing Book",
+    "price": "15.02",
+    "author": "Wilmer Boulding",
+    "genre": "Drama",
+    "pageCount": 190
+  },
+  {
+    "id": "dfd8a245-d18b-43bd-bfca-a5a9a9d27f40",
+    "type": "book",
+    "name": "Re-contextualized fresh-thinking middleware",
+    "description": "A Readable Book",
+    "price": "14.38",
+    "author": "Jerrold Vidyapin",
+    "genre": "Horror|Sci-Fi|Thriller",
+    "pageCount": 390
+  },
+  {
+    "id": "063f0871-12c6-43f6-b22c-9e3968eeeb27",
+    "type": "book",
+    "name": "Automated fault-tolerant interface",
+    "description": "A Readable Book",
+    "price": "14.45",
+    "author": "Nerta Muress",
+    "genre": "Drama|Romance",
+    "pageCount": 392
+  },
+  {
+    "id": "5ab3dc99-d53b-4d64-8040-d560737ff5a1",
+    "type": "book",
+    "name": "Business-focused executive core",
+    "description": "A Readable Book",
+    "price": "14.78",
+    "author": "Anatola O'Carmody",
+    "genre": "Comedy",
+    "pageCount": 443
+  },
+  {
+    "id": "40e66f33-e84f-4647-991a-231ede23ddd1",
+    "type": "book",
+    "name": "Configurable maximized function",
+    "description": "A Readable Book",
+    "price": "20.07",
+    "author": "Rea Cello",
+    "genre": "Comedy|Romance",
+    "pageCount": 180
+  },
+  {
+    "id": "41d12a20-a0d4-4c66-bbb9-97d621cd443b",
+    "type": "book",
+    "name": "Seamless next generation migration",
+    "description": "A Mind Blowing Book",
+    "price": "32.27",
+    "author": "Kalinda Ojeda",
+    "genre": "Drama|War",
+    "pageCount": 73
+  },
+  {
+    "id": "d18a7ff3-8675-4b1d-8744-ad8df1c2884d",
+    "type": "book",
+    "name": "Open-source 24 hour architecture",
+    "description": "A Readable Book",
+    "price": "33.09",
+    "author": "Petronia Coward",
+    "genre": "Drama|Romance",
+    "pageCount": 272
+  },
+  {
+    "id": "267a302d-7f78-4b23-8ff4-db9bdeae5c26",
+    "type": "book",
+    "name": "Vision-oriented modular attitude",
+    "description": "A Readable Book",
+    "price": "26.67",
+    "author": "Jarrad Adkin",
+    "genre": "Adventure|Comedy|Crime|Drama|Mystery|Thriller",
+    "pageCount": 406
+  },
+  {
+    "id": "92d348a7-476f-4477-89cd-c65588af91f5",
+    "type": "book",
+    "name": "Synchronised dedicated implementation",
+    "description": "An Awful Book",
+    "price": "12.61",
+    "author": "Dulcie Yosifov",
+    "genre": "Documentary",
+    "pageCount": 257
+  },
+  {
+    "id": "62ecaa2c-5225-4e3a-9973-68d7a9ff043e",
+    "type": "book",
+    "name": "Balanced tangible throughput",
+    "description": "A Mind Blowing Book",
+    "price": "10.34",
+    "author": "Ric Raccio",
+    "genre": "Action|Adventure|Western",
+    "pageCount": 79
+  },
+  {
+    "id": "ddb422b1-2336-47d7-a6b9-1158b8ad642e",
+    "type": "book",
+    "name": "Proactive context-sensitive collaboration",
+    "description": "An Awful Book",
+    "price": "12.53",
+    "author": "Angelita Teal",
+    "genre": "Action|Drama",
+    "pageCount": 127
+  },
+  {
+    "id": "21550a0e-ebee-4c96-9d27-75622dda340b",
+    "type": "book",
+    "name": "Enterprise-wide composite open system",
+    "description": "A Mind Blowing Book",
+    "price": "15.07",
+    "author": "Arni Kennard",
+    "genre": "Drama|Fantasy|Romance",
+    "pageCount": 130
+  },
+  {
+    "id": "736f861c-222e-4814-839a-02d021ebc394",
+    "type": "book",
+    "name": "Synergistic well-modulated task-force",
+    "description": "A Readable Book",
+    "price": "35.29",
+    "author": "Benjy Dogerty",
+    "genre": "Horror|Thriller",
+    "pageCount": 468
+  },
+  {
+    "id": "ea05219c-d622-466e-a90a-58aaf38d2b74",
+    "type": "book",
+    "name": "Configurable eco-centric matrices",
+    "description": "A Readable Book",
+    "price": "25.71",
+    "author": "Olav Lorentz",
+    "genre": "Thriller",
+    "pageCount": 99
+  },
+  {
+    "id": "b9cdd1fa-26e8-416c-b81c-b555d1187930",
+    "type": "book",
+    "name": "Inverse bottom-line utilisation",
+    "description": "An Awful Book",
+    "price": "36.79",
+    "author": "Staffard Trowl",
+    "genre": "Comedy|Musical",
+    "pageCount": 137
+  },
+  {
+    "id": "f54a1273-6881-455c-a361-655d23ef056a",
+    "type": "book",
+    "name": "Sharable client-server adapter",
+    "description": "An Awful Book",
+    "price": "36.48",
+    "author": "Licha Bassham",
+    "genre": "Drama|Romance",
+    "pageCount": 431
+  },
+  {
+    "id": "12da6e25-4cc1-432c-b885-035e49ba251f",
+    "type": "book",
+    "name": "Switchable homogeneous functionalities",
+    "description": "A Mind Blowing Book",
+    "price": "11.86",
+    "author": "Vittorio Willcox",
+    "genre": "Comedy|Horror",
+    "pageCount": 106
+  },
+  {
+    "id": "f657e9ff-7afb-4cb4-a15d-7157fb91e021",
+    "type": "book",
+    "name": "Business-focused foreground encryption",
+    "description": "An Awful Book",
+    "price": "31.17",
+    "author": "Alic Ashleigh",
+    "genre": "Comedy",
+    "pageCount": 489
+  },
+  {
+    "id": "79389e96-cea5-4439-ab7b-e6ae8362e5f6",
+    "type": "book",
+    "name": "Optimized demand-driven matrices",
+    "description": "An Awful Book",
+    "price": "31.76",
+    "author": "Marne Hawyes",
+    "genre": "Documentary",
+    "pageCount": 441
+  },
+  {
+    "id": "b7b8ca33-811c-4f37-a576-89d68c7d296f",
+    "type": "book",
+    "name": "Right-sized fresh-thinking array",
+    "description": "An Awful Book",
+    "price": "17.39",
+    "author": "Arnie Sarver",
+    "genre": "Adventure|Comedy|Musical",
+    "pageCount": 480
+  },
+  {
+    "id": "7afec61e-3aa6-43e3-a9ec-b430e70e9a18",
+    "type": "book",
+    "name": "Profound motivating process improvement",
+    "description": "An Awful Book",
+    "price": "18.05",
+    "author": "Harper Dackombe",
+    "genre": "Drama|Thriller",
+    "pageCount": 332
+  },
+  {
+    "id": "638c2191-72e9-4697-87f0-16f31fd0c4d0",
+    "type": "book",
+    "name": "Universal contextually-based strategy",
+    "description": "An Awful Book",
+    "price": "36.93",
+    "author": "Will Stivey",
+    "genre": "Drama|Mystery|Romance",
+    "pageCount": 111
+  },
+  {
+    "id": "e6d31a74-6a37-44e8-b905-d5b742e958ff",
+    "type": "book",
+    "name": "Expanded national instruction set",
+    "description": "An Awful Book",
+    "price": "36.20",
+    "author": "Melisenda Lassells",
+    "genre": "Comedy",
+    "pageCount": 469
+  },
+  {
+    "id": "8e582efd-d4fb-4544-8336-1190ef7d9935",
+    "type": "book",
+    "name": "Fully-configurable logistical synergy",
+    "description": "An Awful Book",
+    "price": "29.92",
+    "author": "Rowan Stovold",
+    "genre": "Adventure|Drama|Romance",
+    "pageCount": 311
+  },
+  {
+    "id": "408eeaf2-c184-47cc-ab3d-bbb6bf97bf5d",
+    "type": "book",
+    "name": "Quality-focused well-modulated superstructure",
+    "description": "A Mind Blowing Book",
+    "price": "28.69",
+    "author": "Keenan MacKegg",
+    "genre": "Horror|Thriller",
+    "pageCount": 230
+  },
+  {
+    "id": "0f97d6f4-338b-4d3e-b64e-de1deb2275de",
+    "type": "book",
+    "name": "Fundamental full-range knowledge base",
+    "description": "A Readable Book",
+    "price": "29.59",
+    "author": "Peg Spickett",
+    "genre": "Comedy|Romance",
+    "pageCount": 429
+  },
+  {
+    "id": "1f914c1d-ff4e-4a3d-8d24-4e1ed66f7c52",
+    "type": "book",
+    "name": "Diverse dedicated definition",
+    "description": "A Mind Blowing Book",
+    "price": "14.35",
+    "author": "Darci Faulks",
+    "genre": "Action|Drama",
+    "pageCount": 328
+  },
+  {
+    "id": "8d9cab57-62f6-410d-b460-be676300ef7a",
+    "type": "book",
+    "name": "Fully-configurable exuding matrices",
+    "description": "A Mind Blowing Book",
+    "price": "15.88",
+    "author": "Ara Corragan",
+    "genre": "Drama|Thriller",
+    "pageCount": 379
+  },
+  {
+    "id": "a1ea0e02-a3cc-47a8-9e7d-630496028dd2",
+    "type": "book",
+    "name": "Synergistic 6th generation process improvement",
+    "description": "A Readable Book",
+    "price": "17.07",
+    "author": "Urson Spini",
+    "genre": "Comedy|Drama|Mystery",
+    "pageCount": 87
+  },
+  {
+    "id": "e6193e7a-fa3f-46a4-9ccf-e4afe796e6c2",
+    "type": "book",
+    "name": "Ameliorated object-oriented attitude",
+    "description": "A Mind Blowing Book",
+    "price": "22.50",
+    "author": "Napoleon Haythorn",
+    "genre": "Action|Drama",
+    "pageCount": 279
+  },
+  {
+    "id": "5bb875b8-2bb9-44ea-b9e7-b150476a3dd5",
+    "type": "book",
+    "name": "Mandatory mobile knowledge base",
+    "description": "A Readable Book",
+    "price": "10.74",
+    "author": "Leah Sinnocke",
+    "genre": "Drama",
+    "pageCount": 263
+  },
+  {
+    "id": "7421dc85-6546-440a-938f-d56898eb636e",
+    "type": "book",
+    "name": "Networked tangible contingency",
+    "description": "A Mind Blowing Book",
+    "price": "15.99",
+    "author": "Fifine Jovicevic",
+    "genre": "Horror|Thriller",
+    "pageCount": 314
+  },
+  {
+    "id": "0c469e1a-5c7d-4949-953e-6e6323e66cfd",
+    "type": "book",
+    "name": "Configurable disintermediate throughput",
+    "description": "A Mind Blowing Book",
+    "price": "21.38",
+    "author": "Ebeneser Croft",
+    "genre": "Adventure",
+    "pageCount": 72
+  },
+  {
+    "id": "45bc5c68-badb-4f6e-814e-c83c76c1fec9",
+    "type": "book",
+    "name": "De-engineered high-level hierarchy",
+    "description": "A Readable Book",
+    "price": "25.93",
+    "author": "Revkah Paty",
+    "genre": "Comedy|Romance",
+    "pageCount": 401
+  },
+  {
+    "id": "38cc5885-8190-4d1c-a1f3-60b41e0c35ab",
+    "type": "book",
+    "name": "Managed leading edge software",
+    "description": "An Awful Book",
+    "price": "22.86",
+    "author": "Uriel Pollen",
+    "genre": "Comedy|Drama|Romance",
+    "pageCount": 355
+  },
+  {
+    "id": "9dc03736-fc94-457e-ba2d-7424d6abe8b6",
+    "type": "book",
+    "name": "Universal background firmware",
+    "description": "An Awful Book",
+    "price": "39.93",
+    "author": "Gene Morrissey",
+    "genre": "Comedy|Romance",
+    "pageCount": 95
+  },
+  {
+    "id": "2f7970da-1f2b-4d21-9655-ff7e904a5889",
+    "type": "book",
+    "name": "Visionary tangible infrastructure",
+    "description": "An Awful Book",
+    "price": "28.60",
+    "author": "Lorrayne Elvin",
+    "genre": "Thriller",
+    "pageCount": 357
+  },
+  {
+    "id": "009cb2fb-ae84-4c78-a0d0-3b650177e050",
+    "type": "book",
+    "name": "Enterprise-wide uniform approach",
+    "description": "A Readable Book",
+    "price": "19.10",
+    "author": "Antin Brodway",
+    "genre": "Comedy",
+    "pageCount": 432
+  },
+  {
+    "id": "9428b678-36a9-4ac5-99ac-194f7cb350ea",
+    "type": "book",
+    "name": "Profound optimizing model",
+    "description": "A Mind Blowing Book",
+    "price": "25.51",
+    "author": "Mendel Riordan",
+    "genre": "Adventure|Animation|Children|Comedy|Fantasy",
+    "pageCount": 87
+  },
+  {
+    "id": "ac88abf1-94b2-46d1-beeb-eb09dcf2ecc2",
+    "type": "book",
+    "name": "Down-sized secondary model",
+    "description": "A Readable Book",
+    "price": "24.65",
+    "author": "Bevvy Leed",
+    "genre": "Action|Comedy",
+    "pageCount": 497
+  },
+  {
+    "id": "aa8703bf-d611-40ae-93d4-3245fb97ec5d",
+    "type": "book",
+    "name": "Synchronised holistic adapter",
+    "description": "An Awful Book",
+    "price": "25.32",
+    "author": "Cloris Offell",
+    "genre": "Documentary",
+    "pageCount": 333
+  },
+  {
+    "id": "69b2638f-1f48-45a3-a170-287f1ee7384c",
+    "type": "book",
+    "name": "Integrated intermediate hub",
+    "description": "A Mind Blowing Book",
+    "price": "23.33",
+    "author": "Galven Jamary",
+    "genre": "Action|Crime|Drama",
+    "pageCount": 130
+  },
+  {
+    "id": "34ac1bff-d3bb-4f37-9d18-189f5e946192",
+    "type": "book",
+    "name": "Optimized needs-based model",
+    "description": "An Awful Book",
+    "price": "14.15",
+    "author": "Olympe Josuweit",
+    "genre": "Action|Comedy|Crime",
+    "pageCount": 57
+  },
+  {
+    "id": "4b22fbfe-45ea-4289-b144-8cdae73cfd3a",
+    "type": "book",
+    "name": "Implemented transitional toolset",
+    "description": "A Mind Blowing Book",
+    "price": "11.47",
+    "author": "Mandie Spain-Gower",
+    "genre": "Documentary",
+    "pageCount": 468
+  },
+  {
+    "id": "f0aef29d-5573-4adc-a9ff-b726387f7d39",
+    "type": "book",
+    "name": "Ameliorated attitude-oriented interface",
+    "description": "An Awful Book",
+    "price": "24.93",
+    "author": "Kendal Kliemke",
+    "genre": "Action|Comedy|Crime|Drama",
+    "pageCount": 454
+  },
+  {
+    "id": "7b45fa2c-d040-42cd-a4d6-480ee59994c6",
+    "type": "book",
+    "name": "Optional user-facing website",
+    "description": "A Mind Blowing Book",
+    "price": "33.26",
+    "author": "Delano Burrus",
+    "genre": "Comedy|Drama",
+    "pageCount": 64
+  },
+  {
+    "id": "580c2e53-87f9-487b-8a1b-2bb915594777",
+    "type": "book",
+    "name": "Optional zero tolerance intranet",
+    "description": "A Mind Blowing Book",
+    "price": "28.29",
+    "author": "Malinde Gindghill",
+    "genre": "Documentary",
+    "pageCount": 133
+  },
+  {
+    "id": "c4903e7c-d7ec-4d2b-9ba6-965d89b7c756",
+    "type": "book",
+    "name": "User-centric fresh-thinking matrices",
+    "description": "A Mind Blowing Book",
+    "price": "18.88",
+    "author": "Hildegarde Troke",
+    "genre": "Horror",
+    "pageCount": 196
+  },
+  {
+    "id": "ce4e7bae-e35b-4a96-915e-a0619053741e",
+    "type": "book",
+    "name": "Intuitive bandwidth-monitored open system",
+    "description": "An Awful Book",
+    "price": "10.00",
+    "author": "Zacherie Philpotts",
+    "genre": "Comedy",
+    "pageCount": 362
+  },
+  {
+    "id": "849d78bf-12de-4c64-89b4-873f7893b19a",
+    "type": "book",
+    "name": "Multi-tiered eco-centric data-warehouse",
+    "description": "A Readable Book",
+    "price": "17.06",
+    "author": "Ange Ravenscraft",
+    "genre": "Crime|Documentary",
+    "pageCount": 281
+  },
+  {
+    "id": "c3071155-4f0a-4255-8619-69cbda61717f",
+    "type": "book",
+    "name": "Synergized executive database",
+    "description": "A Mind Blowing Book",
+    "price": "27.85",
+    "author": "Inna Saturley",
+    "genre": "Comedy",
+    "pageCount": 247
+  },
+  {
+    "id": "bb8a11d8-115c-478f-a8bc-06aabd7209e2",
+    "type": "book",
+    "name": "Grass-roots zero tolerance time-frame",
+    "description": "A Mind Blowing Book",
+    "price": "38.57",
+    "author": "Peder Guerrero",
+    "genre": "Action|Animation|Drama|War",
+    "pageCount": 479
+  },
+  {
+    "id": "87105519-46be-48d7-bf0b-c2fed66826e0",
+    "type": "book",
+    "name": "Visionary encompassing parallelism",
+    "description": "A Readable Book",
+    "price": "22.12",
+    "author": "Kelly Norgate",
+    "genre": "Crime|Drama|Thriller",
+    "pageCount": 233
+  },
+  {
+    "id": "56d3608c-9169-4cf9-8404-1658a96fb38a",
+    "type": "book",
+    "name": "Up-sized dynamic challenge",
+    "description": "An Awful Book",
+    "price": "29.58",
+    "author": "Stephannie Szymonowicz",
+    "genre": "Crime|Drama",
+    "pageCount": 300
+  },
+  {
+    "id": "7aa31dff-bd6d-40d7-8482-26e5c3ad91f6",
+    "type": "book",
+    "name": "Re-engineered zero administration algorithm",
+    "description": "An Awful Book",
+    "price": "15.50",
+    "author": "Hamlin Ricardou",
+    "genre": "Documentary",
+    "pageCount": 77
+  },
+  {
+    "id": "8bc97a1f-06fe-451d-9d64-41f49591b06c",
+    "type": "book",
+    "name": "Right-sized next generation migration",
+    "description": "An Awful Book",
+    "price": "24.27",
+    "author": "Addie Leyden",
+    "genre": "Crime|Drama|Horror|Musical",
+    "pageCount": 448
+  },
+  {
+    "id": "9689f874-3699-40e6-9a5d-4a7f24185cf8",
+    "type": "book",
+    "name": "Polarised discrete analyzer",
+    "description": "An Awful Book",
+    "price": "12.20",
+    "author": "Phelia Bernon",
+    "genre": "Adventure|Drama|Romance",
+    "pageCount": 105
+  },
+  {
+    "id": "440f3550-4d2e-4327-95a9-d137630f95f6",
+    "type": "book",
+    "name": "Ameliorated high-level functionalities",
+    "description": "An Awful Book",
+    "price": "28.80",
+    "author": "Gladi Elt",
+    "genre": "Comedy|Drama",
+    "pageCount": 203
+  },
+  {
+    "id": "a5a8d388-1c5b-4ad6-baf3-00810efdf4bb",
+    "type": "book",
+    "name": "Synchronised background function",
+    "description": "A Mind Blowing Book",
+    "price": "25.59",
+    "author": "Flss Stansall",
+    "genre": "Comedy|Romance",
+    "pageCount": 248
+  },
+  {
+    "id": "d1f7dcc7-0a92-494a-b347-569ea5745341",
+    "type": "book",
+    "name": "De-engineered 4th generation capability",
+    "description": "A Readable Book",
+    "price": "31.24",
+    "author": "Eliot Idale",
+    "genre": "Action|Horror|Sci-Fi",
+    "pageCount": 84
+  },
+  {
+    "id": "ebb53b4f-ad19-4ac3-af7d-86aa54a9a735",
+    "type": "book",
+    "name": "Reactive upward-trending challenge",
+    "description": "A Readable Book",
+    "price": "23.51",
+    "author": "Cullie Tumulty",
+    "genre": "Comedy|Romance",
+    "pageCount": 86
+  },
+  {
+    "id": "5f091e34-a7c8-46fc-9463-62aae2382517",
+    "type": "book",
+    "name": "Grass-roots optimizing hierarchy",
+    "description": "A Readable Book",
+    "price": "29.66",
+    "author": "Gil Petrecz",
+    "genre": "Drama",
+    "pageCount": 385
+  },
+  {
+    "id": "98a22a5f-d0a6-4ef7-a017-31ad251fa85e",
+    "type": "book",
+    "name": "Customizable next generation productivity",
+    "description": "A Readable Book",
+    "price": "23.68",
+    "author": "Stefano Livsey",
+    "genre": "Comedy|Romance",
+    "pageCount": 328
+  },
+  {
+    "id": "99885bea-3b7e-4904-ab1a-34b597a02a6c",
+    "type": "book",
+    "name": "Switchable modular superstructure",
+    "description": "A Readable Book",
+    "price": "10.99",
+    "author": "Desiri Streeten",
+    "genre": "Crime|Drama|Thriller",
+    "pageCount": 64
+  },
+  {
+    "id": "b4209ac9-7f0c-4009-836c-116148df97ab",
+    "type": "book",
+    "name": "Object-based solution-oriented instruction set",
+    "description": "A Mind Blowing Book",
+    "price": "32.93",
+    "author": "Hyman Battaille",
+    "genre": "Children|Drama",
+    "pageCount": 219
+  },
+  {
+    "id": "f3edb701-7d31-4abc-b0cd-33b0d5f4e6f2",
+    "type": "book",
+    "name": "Polarised content-based artificial intelligence",
+    "description": "A Mind Blowing Book",
+    "price": "21.43",
+    "author": "William Spurway",
+    "genre": "Action|Thriller",
+    "pageCount": 290
+  },
+  {
+    "id": "fe12da6e-e688-4cd1-9509-7e80acd19e04",
+    "type": "book",
+    "name": "Realigned actuating algorithm",
+    "description": "An Awful Book",
+    "price": "35.04",
+    "author": "Vance Huzzay",
+    "genre": "Documentary",
+    "pageCount": 314
+  },
+  {
+    "id": "9608c696-e867-439c-9ca0-08eeccdf106f",
+    "type": "book",
+    "name": "Optional 24 hour standardization",
+    "description": "A Readable Book",
+    "price": "23.04",
+    "author": "Suzanna Merrgen",
+    "genre": "Drama",
+    "pageCount": 55
+  },
+  {
+    "id": "f0caae99-ac27-49a9-80a6-c99395949b3b",
+    "type": "book",
+    "name": "Organic responsive hardware",
+    "description": "A Readable Book",
+    "price": "33.81",
+    "author": "Magdaia Stivey",
+    "genre": "Sci-Fi",
+    "pageCount": 103
+  },
+  {
+    "id": "bb627193-542c-4b8e-ad8f-7283ff89d9d5",
+    "type": "book",
+    "name": "Open-source hybrid info-mediaries",
+    "description": "A Readable Book",
+    "price": "15.27",
+    "author": "Dal Ackerman",
+    "genre": "Drama",
+    "pageCount": 282
+  },
+  {
+    "id": "41928399-3163-4bb3-aec3-dd22f6f54ce0",
+    "type": "book",
+    "name": "Profound cohesive leverage",
+    "description": "A Mind Blowing Book",
+    "price": "26.70",
+    "author": "Kaitlin Leonard",
+    "genre": "Comedy|Crime|Mystery",
+    "pageCount": 299
+  },
+  {
+    "id": "396b1207-d94e-4e8e-b56c-6435edfb1af9",
+    "type": "book",
+    "name": "Enterprise-wide national benchmark",
+    "description": "An Awful Book",
+    "price": "27.02",
+    "author": "Berenice Moubray",
+    "genre": "Comedy",
+    "pageCount": 98
+  },
+  {
+    "id": "093dd6de-123e-4ee1-aa93-09c556034d73",
+    "type": "book",
+    "name": "Enterprise-wide leading edge access",
+    "description": "A Readable Book",
+    "price": "19.17",
+    "author": "Starlin MacDougall",
+    "genre": "Comedy|Drama|Romance",
+    "pageCount": 268
+  },
+  {
+    "id": "dbd8d67c-a33f-43e4-9335-1d1784a1dc31",
+    "type": "book",
+    "name": "Open-source 3rd generation success",
+    "description": "A Mind Blowing Book",
+    "price": "16.16",
+    "author": "Hercule Heskin",
+    "genre": "Comedy|Horror|Sci-Fi",
+    "pageCount": 424
+  },
+  {
+    "id": "d9a366b4-1ca4-4e0d-85d2-562c034e9533",
+    "type": "book",
+    "name": "Fundamental next generation interface",
+    "description": "An Awful Book",
+    "price": "19.26",
+    "author": "Jacklyn Eastcourt",
+    "genre": "Action|Adventure|Comedy|Sci-Fi|Thriller",
+    "pageCount": 458
+  },
+  {
+    "id": "35d4a192-c098-4f7a-aa9f-3585cb42550a",
+    "type": "book",
+    "name": "Devolved eco-centric product",
+    "description": "A Readable Book",
+    "price": "26.93",
+    "author": "Fiona Aris",
+    "genre": "Horror|Thriller",
+    "pageCount": 448
+  },
+  {
+    "id": "32f65030-6090-4b83-a9c5-ef6bf0b9980d",
+    "type": "book",
+    "name": "Object-based maximized standardization",
+    "description": "A Readable Book",
+    "price": "10.45",
+    "author": "Humberto Leere",
+    "genre": "Comedy|Musical|Romance",
+    "pageCount": 158
+  },
+  {
+    "id": "32ba3308-d907-4fac-8bd8-c0c8d6f50f50",
+    "type": "book",
+    "name": "Focused web-enabled complexity",
+    "description": "A Mind Blowing Book",
+    "price": "27.67",
+    "author": "Ryley Carlan",
+    "genre": "Comedy",
+    "pageCount": 169
+  },
+  {
+    "id": "34eb3c70-a0eb-4818-8779-afe23a08e7c8",
+    "type": "book",
+    "name": "Open-architected incremental hierarchy",
+    "description": "A Mind Blowing Book",
+    "price": "30.28",
+    "author": "Nial Fedoronko",
+    "genre": "Drama",
+    "pageCount": 390
+  },
+  {
+    "id": "c36ebd0c-a1b1-4e99-ac9c-180af3240912",
+    "type": "book",
+    "name": "Public-key client-server customer loyalty",
+    "description": "A Mind Blowing Book",
+    "price": "10.59",
+    "author": "Aurie Jansens",
+    "genre": "Comedy|Crime|Drama",
+    "pageCount": 161
+  },
+  {
+    "id": "d50703f4-1d9f-4301-868e-3d08de38a946",
+    "type": "book",
+    "name": "Customer-focused eco-centric moderator",
+    "description": "A Readable Book",
+    "price": "16.43",
+    "author": "Addy Love",
+    "genre": "Comedy",
+    "pageCount": 172
+  },
+  {
+    "id": "d9d99607-fd68-4187-bf49-84093dc2d72d",
+    "type": "book",
+    "name": "Assimilated mobile structure",
+    "description": "A Mind Blowing Book",
+    "price": "25.27",
+    "author": "Floria Cadle",
+    "genre": "Drama|Romance",
+    "pageCount": 233
+  },
+  {
+    "id": "a0da6ea6-ab3b-4347-afd2-e1a042b2c58c",
+    "type": "book",
+    "name": "Monitored foreground open architecture",
+    "description": "A Readable Book",
+    "price": "19.52",
+    "author": "Osborne Vickerstaff",
+    "genre": "Sci-Fi|Thriller",
+    "pageCount": 151
+  },
+  {
+    "id": "23d2a1c9-db16-42a3-84c3-3d50841e5dcf",
+    "type": "book",
+    "name": "Integrated regional forecast",
+    "description": "A Readable Book",
+    "price": "39.59",
+    "author": "Peg Lambrechts",
+    "genre": "Action|Adventure|Drama|Sci-Fi|Thriller",
+    "pageCount": 72
+  },
+  {
+    "id": "0a65d806-7f1c-47d7-b450-88da96e21f93",
+    "type": "book",
+    "name": "Open-architected directional architecture",
+    "description": "A Mind Blowing Book",
+    "price": "19.90",
+    "author": "Lazar Spriddle",
+    "genre": "Comedy|Western",
+    "pageCount": 343
+  },
+  {
+    "id": "a1df69c0-5c36-4907-9d36-8f2e98f7bcf1",
+    "type": "book",
+    "name": "Distributed asynchronous installation",
+    "description": "An Awful Book",
+    "price": "25.77",
+    "author": "Melosa Jouannot",
+    "genre": "Romance",
+    "pageCount": 287
+  },
+  {
+    "id": "0c8492ec-a116-4b4e-9a93-704cefe8bdb3",
+    "type": "book",
+    "name": "Extended maximized open system",
+    "description": "A Readable Book",
+    "price": "12.20",
+    "author": "Agnella Domican",
+    "genre": "Animation|Children",
+    "pageCount": 67
+  },
+  {
+    "id": "fd66a789-a6ed-40d0-abf7-20f57149dcb4",
+    "type": "book",
+    "name": "Mandatory solution-oriented model",
+    "description": "An Awful Book",
+    "price": "24.86",
+    "author": "Gwenore Nevins",
+    "genre": "Crime|Drama|Mystery|Romance|Thriller",
+    "pageCount": 458
+  },
+  {
+    "id": "00842575-731d-4c9b-8736-51af7d0e2411",
+    "type": "book",
+    "name": "Robust methodical moderator",
+    "description": "A Mind Blowing Book",
+    "price": "33.91",
+    "author": "Belia Gatus",
+    "genre": "Action|Horror|Thriller",
+    "pageCount": 146
+  },
+  {
+    "id": "f9bffafe-6e84-497c-aed7-acac4aacc3d7",
+    "type": "book",
+    "name": "Quality-focused reciprocal software",
+    "description": "A Readable Book",
+    "price": "18.16",
+    "author": "Olympie McNirlan",
+    "genre": "Action|Comedy",
+    "pageCount": 314
+  },
+  {
+    "id": "4b7be732-3562-45f5-8589-037c243d5453",
+    "type": "book",
+    "name": "Fundamental non-volatile complexity",
+    "description": "An Awful Book",
+    "price": "11.39",
+    "author": "Nerta Cantle",
+    "genre": "Comedy|Romance",
+    "pageCount": 447
+  },
+  {
+    "id": "b590cad7-001d-4f81-a06f-1eaba1ff2426",
+    "type": "book",
+    "name": "Proactive eco-centric Graphic Interface",
+    "description": "An Awful Book",
+    "price": "22.72",
+    "author": "Roman Kristoffersen",
+    "genre": "Drama|Horror",
+    "pageCount": 163
+  },
+  {
+    "id": "495d17f6-9d8e-401a-b101-e139b2595cc4",
+    "type": "book",
+    "name": "Balanced secondary installation",
+    "description": "A Mind Blowing Book",
+    "price": "19.60",
+    "author": "Wesley Lenihan",
+    "genre": "Adventure|Comedy|Musical|Romance",
+    "pageCount": 422
+  },
+  {
+    "id": "4f88a70b-37aa-46dc-9dec-aa70c2e18502",
+    "type": "book",
+    "name": "Customer-focused composite parallelism",
+    "description": "An Awful Book",
+    "price": "10.09",
+    "author": "Rodina Shone",
+    "genre": "Comedy|Drama",
+    "pageCount": 249
+  },
+  {
+    "id": "48395515-2906-4db3-b1c9-929f20e67886",
+    "type": "book",
+    "name": "Open-source responsive solution",
+    "description": "A Mind Blowing Book",
+    "price": "38.18",
+    "author": "Nickie Micheau",
+    "genre": "Comedy",
+    "pageCount": 333
+  },
+  {
+    "id": "7a8fa0a1-4c1a-4767-a5e8-2a866201a291",
+    "type": "book",
+    "name": "Synergized holistic complexity",
+    "description": "An Awful Book",
+    "price": "36.26",
+    "author": "Marrilee Kennsley",
+    "genre": "Drama|War",
+    "pageCount": 389
+  },
+  {
+    "id": "8e2a5cfc-3b6d-4ded-9d62-761b8a90d304",
+    "type": "book",
+    "name": "Enhanced bifurcated implementation",
+    "description": "An Awful Book",
+    "price": "29.20",
+    "author": "Damita Fassbender",
+    "genre": "Crime|Fantasy|Film-Noir|Thriller",
+    "pageCount": 210
+  },
+  {
+    "id": "8b72543a-761b-4581-ba2e-9e6cc15fea7f",
+    "type": "book",
+    "name": "Devolved holistic hardware",
+    "description": "An Awful Book",
+    "price": "22.10",
+    "author": "Lory Goodale",
+    "genre": "Comedy|Romance",
+    "pageCount": 333
+  },
+  {
+    "id": "81ed055a-8f13-4624-91fe-662e724447e6",
+    "type": "book",
+    "name": "Intuitive even-keeled moderator",
+    "description": "An Awful Book",
+    "price": "12.17",
+    "author": "Rebecca Semmens",
+    "genre": "Drama",
+    "pageCount": 206
+  },
+  {
+    "id": "8b14e2f4-b311-4ec8-9a82-1553c1d8abe3",
+    "type": "book",
+    "name": "De-engineered disintermediate throughput",
+    "description": "A Readable Book",
+    "price": "34.22",
+    "author": "Chloette McKissack",
+    "genre": "Crime|Drama|Thriller",
+    "pageCount": 365
+  },
+  {
+    "id": "8c423949-f6cb-46dc-8439-35b6193faa5f",
+    "type": "book",
+    "name": "Streamlined national hardware",
+    "description": "An Awful Book",
+    "price": "23.46",
+    "author": "Stanley Pyrton",
+    "genre": "Documentary|Musical",
+    "pageCount": 355
+  },
+  {
+    "id": "715c1547-f919-4df8-a14e-7844c07cdbdf",
+    "type": "book",
+    "name": "Secured multi-tasking instruction set",
+    "description": "A Mind Blowing Book",
+    "price": "20.71",
+    "author": "Fernando Ludovico",
+    "genre": "Action|Horror",
+    "pageCount": 406
+  },
+  {
+    "id": "7dbbb110-bdca-4868-abf4-306c72e0ca51",
+    "type": "book",
+    "name": "Customizable client-driven algorithm",
+    "description": "An Awful Book",
+    "price": "32.64",
+    "author": "Ceciley Grimshaw",
+    "genre": "Horror|Sci-Fi",
+    "pageCount": 94
+  },
+  {
+    "id": "45e06bf7-6452-4457-af84-3e15ff247802",
+    "type": "book",
+    "name": "Seamless system-worthy database",
+    "description": "A Readable Book",
+    "price": "39.33",
+    "author": "Dorie Dodamead",
+    "genre": "Drama",
+    "pageCount": 464
+  },
+  {
+    "id": "82b96d65-cda8-4432-a00c-28e3c9661870",
+    "type": "book",
+    "name": "Synchronised holistic parallelism",
+    "description": "A Mind Blowing Book",
+    "price": "16.42",
+    "author": "Katinka Mosdall",
+    "genre": "Comedy|Romance",
+    "pageCount": 348
+  },
+  {
+    "id": "53580c5b-7ef4-4db3-bb5e-d33360b7392c",
+    "type": "book",
+    "name": "Seamless interactive leverage",
+    "description": "A Mind Blowing Book",
+    "price": "18.85",
+    "author": "Arlette Connell",
+    "genre": "Action|Comedy|Crime",
+    "pageCount": 243
+  },
+  {
+    "id": "c70b8f26-9d58-4f8b-82cc-ed4539544447",
+    "type": "book",
+    "name": "Team-oriented zero administration access",
+    "description": "An Awful Book",
+    "price": "10.67",
+    "author": "Dyanne Gornal",
+    "genre": "Drama",
+    "pageCount": 351
+  },
+  {
+    "id": "13859564-a775-4c7d-9db8-50b56aa9fdb2",
+    "type": "book",
+    "name": "Pre-emptive tertiary core",
+    "description": "A Mind Blowing Book",
+    "price": "18.77",
+    "author": "Donal Bankes",
+    "genre": "Action|Sci-Fi",
+    "pageCount": 267
+  },
+  {
+    "id": "82d43904-bae8-4e12-a980-f7ca4ae05f4a",
+    "type": "book",
+    "name": "Cross-platform fresh-thinking paradigm",
+    "description": "A Mind Blowing Book",
+    "price": "22.95",
+    "author": "Pippy Audiss",
+    "genre": "Drama",
+    "pageCount": 355
+  },
+  {
+    "id": "9ce755cb-3f35-4e97-bc43-8e40021a9e9f",
+    "type": "book",
+    "name": "User-centric radical success",
+    "description": "A Readable Book",
+    "price": "28.07",
+    "author": "Rodrique Swadling",
+    "genre": "Documentary",
+    "pageCount": 229
+  },
+  {
+    "id": "61b4dbe7-4077-4bc3-9787-dbedba7ed102",
+    "type": "book",
+    "name": "Proactive mission-critical capacity",
+    "description": "A Mind Blowing Book",
+    "price": "20.95",
+    "author": "Royal Stainson",
+    "genre": "Adventure|Fantasy|Romance",
+    "pageCount": 55
+  },
+  {
+    "id": "8213328a-c370-40d0-9e47-c51b5973c478",
+    "type": "book",
+    "name": "Synergized impactful emulation",
+    "description": "A Readable Book",
+    "price": "23.86",
+    "author": "Lira Rainard",
+    "genre": "Crime|Horror|Mystery",
+    "pageCount": 471
+  },
+  {
+    "id": "71086731-f8c0-4ace-a86d-3152d751053c",
+    "type": "book",
+    "name": "Business-focused intermediate hierarchy",
+    "description": "A Mind Blowing Book",
+    "price": "27.95",
+    "author": "Brook Tooting",
+    "genre": "Action|Adventure|Drama",
+    "pageCount": 302
+  },
+  {
+    "id": "a717531f-e876-442d-9ba5-d0a36694ca11",
+    "type": "book",
+    "name": "User-friendly holistic contingency",
+    "description": "A Mind Blowing Book",
+    "price": "23.35",
+    "author": "Nickolai Cordelet",
+    "genre": "Drama|War",
+    "pageCount": 440
+  },
+  {
+    "id": "4b5752c5-2e1e-4bb3-8ce4-8702e65706f3",
+    "type": "book",
+    "name": "Inverse demand-driven hub",
+    "description": "A Mind Blowing Book",
+    "price": "11.05",
+    "author": "Odell Dengate",
+    "genre": "Adventure|Animation|Children|Drama|Fantasy",
+    "pageCount": 245
+  },
+  {
+    "id": "6d7393a0-b060-4aed-8b84-bc47d401585f",
+    "type": "book",
+    "name": "Programmable disintermediate synergy",
+    "description": "A Mind Blowing Book",
+    "price": "20.37",
+    "author": "Beck Tinkler",
+    "genre": "Drama|War",
+    "pageCount": 320
+  },
+  {
+    "id": "1f2b675d-a848-4121-bcb6-acdd2d3868c2",
+    "type": "book",
+    "name": "Object-based empowering intranet",
+    "description": "An Awful Book",
+    "price": "18.09",
+    "author": "Barn Fores",
+    "genre": "Drama|Romance",
+    "pageCount": 495
+  },
+  {
+    "id": "0748a5bf-50d6-40e4-bdef-bd309f31ded9",
+    "type": "book",
+    "name": "Implemented value-added algorithm",
+    "description": "An Awful Book",
+    "price": "35.08",
+    "author": "Esma Ruckman",
+    "genre": "Documentary",
+    "pageCount": 337
+  },
+  {
+    "id": "1f63e596-c86f-434a-8442-18aab2eba8e3",
+    "type": "book",
+    "name": "Intuitive hybrid help-desk",
+    "description": "A Readable Book",
+    "price": "18.37",
+    "author": "Inglebert Lammers",
+    "genre": "Children",
+    "pageCount": 60
+  },
+  {
+    "id": "f2fa0800-9f28-4ad6-bab1-dc68709bc42f",
+    "type": "book",
+    "name": "Robust background challenge",
+    "description": "A Mind Blowing Book",
+    "price": "36.21",
+    "author": "Barri McKeeman",
+    "genre": "Crime|Drama|Romance",
+    "pageCount": 110
+  },
+  {
+    "id": "12db9055-bb63-4f8f-a142-0ecbf5635c7f",
+    "type": "book",
+    "name": "Re-contextualized 5th generation superstructure",
+    "description": "An Awful Book",
+    "price": "38.86",
+    "author": "Robinet Attwill",
+    "genre": "Comedy|Romance",
+    "pageCount": 135
+  },
+  {
+    "id": "308d5aab-e1da-48df-a320-ee6ff0d648b6",
+    "type": "book",
+    "name": "Self-enabling object-oriented strategy",
+    "description": "A Readable Book",
+    "price": "37.51",
+    "author": "Ardene Clendennen",
+    "genre": "Sci-Fi",
+    "pageCount": 323
+  }
+]

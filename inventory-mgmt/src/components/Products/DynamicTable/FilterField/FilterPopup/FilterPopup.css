@@ -1,0 +1,37 @@
+.filter-popup {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: white;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  min-width: 200px;
+  padding: 12px;
+  z-index: 10;
+}
+
+.filter-popup-content {
+  display: flex;
+  flex-direction: column;
+}
+
+.filter-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  max-height: 200px;
+  overflow-y: auto;
+}
+
+.filter-option {
+  color: black;
+  font-weight: normal;
+}
+
+.filter-option .filter-option-content {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}

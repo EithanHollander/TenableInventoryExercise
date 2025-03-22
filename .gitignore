@@ -1,0 +1,15 @@
+# Node.js
+*/node_modules/
+*/npm-debug.log
+
+# Frontend build output
+*/.next
+*/out
+*/.nuxt
+
+# Backend build output (if applicable)
+*/dist
+*/build
+
+# MongoDB local data directory (if using Docker or local MongoDB)
+*/data/

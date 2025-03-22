@@ -1,0 +1,68 @@
+.dynamic-table-container {
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  overflow-x: auto;
+  min-height: 500px;
+}
+
+.dynamic-table {
+  width: max-content; /* Makes sure table takes as much width as needed */
+  min-width: 100%; /* Ensures it doesn't shrink too much */
+  border-collapse: collapse;
+  border-radius: 10px;
+}
+
+.dynamic-table .column-header-content {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  gap: 10px;
+  align-items: center;
+  min-width: 200px;
+
+  & .column-actions {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+}
+
+.dynamic-table thead {
+  position: sticky;
+  top: 0;
+  z-index: 2; /* Ensures it stays above the table body */
+}
+
+.dynamic-table th,
+.dynamic-table td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+  word-wrap: break-word; /* Ensures long words wrap */
+  overflow-wrap: break-word;
+  white-space: normal; /* Allows multiple lines */
+}
+
+.dynamic-table th {
+  background-color: #0288d1;
+  color: white;
+  text-align: left;
+  padding: 12px;
+  font-size: 16px;
+}
+
+.dynamic-table td {
+  padding: 10px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+  font-size: 14px;
+}
+
+.dynamic-table tr:nth-child(even) {
+  background-color: #f8f9fa; /* Light gray for even rows */
+}
+
+.dynamic-table tr:nth-child(odd) {
+  background-color: #ffffff; /* White for odd rows */
+}

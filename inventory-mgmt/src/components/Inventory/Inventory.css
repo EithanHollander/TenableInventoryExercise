@@ -1,0 +1,23 @@
+.inventory-container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.inventory-container .inventory-content {
+  display: flex;
+  height: 100%;
+  overflow: hidden;
+
+  & .left-side {
+    display: flex;
+    flex: 1;
+    border-right: 2px solid #ccc;
+  }
+
+  & .right-side {
+    display: flex;
+    flex: 2;
+    overflow: auto;
+  }
+}

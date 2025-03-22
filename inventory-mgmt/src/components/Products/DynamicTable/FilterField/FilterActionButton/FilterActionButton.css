@@ -1,0 +1,25 @@
+.filter-action-button {
+  margin-top: 12px;
+  padding: 8px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.filter-action-button.filled {
+  border: none;
+  color: white;
+  background-color: #0288d1;
+
+  &:hover {
+    background-color: #0277bd;
+  }
+}
+
+.filter-action-button.outline {
+  border: 1px solid #0288d1;
+  color: #0288d1;
+
+  &:hover {
+    background-color: #e1f0ff;
+  }
+}

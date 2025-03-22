@@ -1,0 +1,11 @@
+.error-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: red; /* Ensures the text is red */
+  font-size: 16px;
+  font-weight: bold; /* Makes the text bold */
+  gap: 10px;
+  margin: 20px 0;
+}

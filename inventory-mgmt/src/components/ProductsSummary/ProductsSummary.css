@@ -1,0 +1,14 @@
+.products-summary-no-elements {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+}
+
+.products-summary {
+  width: 100%;
+  padding: 20px;
+  flex: 1;
+  overflow-y: auto;
+}

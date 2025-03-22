@@ -1,0 +1,1472 @@
+[
+  {
+    "id": "c370143d-b5a6-4891-b269-1bc0eb8b187e",
+    "type": "bike",
+    "name": "Kids Bicycle",
+    "description": "An Awesome Bike",
+    "price": "129.39",
+    "wheelSize": 28,
+    "color": "Violet",
+    "frameMaterial": "Aluminum"
+  },
+  {
+    "id": "d22197db-115b-4f13-9fc6-818afefc625c",
+    "type": "bike",
+    "name": "Mountain Bike",
+    "description": "An Awesome Bike",
+    "price": "637.12",
+    "wheelSize": 26,
+    "color": "Violet",
+    "frameMaterial": "Titanium"
+  },
+  {
+    "id": "19cdf4d4-173c-4f82-a092-d283320133b2",
+    "type": "bike",
+    "name": "Mountain Bike",
+    "description": "An Awesome Bike",
+    "price": "621.53",
+    "wheelSize": 26,
+    "color": "Blue",
+    "frameMaterial": "Aluminum"
+  },
+  {
+    "id": "af30a831-b76e-4837-b6f7-98c6e7b1dc7f",
+    "type": "bike",
+    "name": "Mountain Bike",
+    "description": "An Amazing Bike",
+    "price": "117.03",
+    "wheelSize": 26,
+    "color": "Khaki",
+    "frameMaterial": "Carbon"
+  },
+  {
+    "id": "3e008a79-0e4f-49bd-a20c-0170ca51e744",
+    "type": "bike",
+    "name": "BMX Bike",
+    "description": "An Amazing Bike",
+    "price": "748.12",
+    "wheelSize": 29,
+    "color": "Goldenrod",
+    "frameMaterial": "Carbon"
+  },
+  {
+    "id": "662a3b49-8c4d-40f9-8fcc-565a418d6640",
+    "type": "bike",
+    "name": "Mountain Bike",
+    "description": "An Awesome Bike",
+    "price": "417.88",
+    "wheelSize": 27,
+    "color": "Green",
+    "frameMaterial": "Steel"
+  },
+  {
+    "id": "ae9dae1c-541b-404f-9552-aad4f5b91cfb",
+    "type": "bike",
+    "name": "Electric Bike",
+    "description": "An Excellent Bike",
+    "price": "117.68",
+    "wheelSize": 27,
+    "color": "Pink",
+    "frameMaterial": "Steel"
+  },
+  {
+    "id": "a226c97f-d130-4ff1-bcc7-81bdbee64636",
+    "type": "bike",
+    "name": "Mountain Bike",
+    "description": "An Excellent Bike",
+    "price": "274.92",
+    "wheelSize": 28,
+    "color": "Fuscia",
+    "frameMaterial": "Carbon"
+  },
+  {
+    "id": "d6cf3cd9-a007-4303-bac6-9be0f8dc4788",
+    "type": "bike",
+    "name": "BMX Bike",
+    "description": "An Awesome Bike",
+    "price": "837.14",
+    "wheelSize": 27,
+    "color": "Fuscia",
+    "frameMaterial": "Titanium"
+  },
+  {
+    "id": "5e90c550-e28d-4bc2-bf69-8645578db1f2",
+    "type": "bike",
+    "name": "Kids Bicycle",
+    "description": "An Excellent Bike",
+    "price": "710.16",
+    "wheelSize": 26,
+    "color": "Orange",
+    "frameMaterial": "Carbon"
+  },
+  {
+    "id": "bb9b0532-3d9f-4198-8cfe-7dd2cbb03879",
+    "type": "bike",
+    "name": "Mountain Bike",
+    "description": "An Excellent Bike",
+    "price": "382.94",
+    "wheelSize": 28,
+    "color": "Goldenrod",
+    "frameMaterial": "Titanium"
+  },
+  {
+    "id": "59aa3c16-ac93-46e7-9dd1-d8b151cbe5b0",
+    "type": "bike",
+    "name": "Folding Bicycle",
+    "description": "An Amazing Bike",
+    "price": "211.67",
+    "wheelSize": 29,
+    "color": "Aquamarine",
+    "frameMaterial": "Steel"
+  },
+  {
+    "id": "25f07649-4248-4ae4-aed5-223e5980cd2e",
+    "type": "bike",
+    "name": "Electric Bike",
+    "description": "An Amazing Bike",
+    "price": "874.48",
+    "wheelSize": 26,
+    "color": "Teal",
+    "frameMaterial": "Titanium"
+  },
+  {
+    "id": "5c50374b-01a9-4233-8639-bf57f23c8ffc",
+    "type": "bike",
+    "name": "Kids Bicycle",
+    "description": "An Excellent Bike",
+    "price": "477.05",
+    "wheelSize": 26,
+    "color": "Goldenrod",
+    "frameMaterial": "Steel"
+  },
+  {
+    "id": "33c36f4c-07e0-4f22-bfae-baaba18ddd98",
+    "type": "bike",
+    "name": "Folding Bicycle",
+    "description": "An Awesome Bike",
+    "price": "897.76",
+    "wheelSize": 27,
+    "color": "Indigo",
+    "frameMaterial": "Aluminum"
+  },
+  {
+    "id": "18ae33d0-82aa-4e64-b815-d8cc25750d4f",
+    "type": "bike",
+    "name": "Electric Bike",
+    "description": "An Awesome Bike",
+    "price": "833.99",
+    "wheelSize": 26,
+    "color": "Red",
+    "frameMaterial": "Carbon"
+  },
+  {
+    "id": "807572ed-f700-4610-9fc8-33342d1dfc46",
+    "type": "bike",
+    "name": "BMX Bike",
+    "description": "An Awesome Bike",
+    "price": "486.48",
+    "wheelSize": 29,
+    "color": "Fuscia",
+    "frameMaterial": "Aluminum"
+  },
+  {
+    "id": "760f4148-6cbc-4b07-932b-beef05f29a9b",
+    "type": "bike",
+    "name": "Electric Bike",
+    "description": "An Excellent Bike",
+    "price": "164.07",
+    "wheelSize": 26,
+    "color": "Goldenrod",
+    "frameMaterial": "Titanium"
+  },
+  {
+    "id": "1f6cc03e-6ed2-4f51-a18d-e163b3372893",
+    "type": "bike",
+    "name": "Folding Bicycle",
+    "description": "An Amazing Bike",
+    "price": "610.04",
+    "wheelSize": 26,
+    "color": "Indigo",
+    "frameMaterial": "Steel"
+  },
+  {
+    "id": "aff415df-61fb-4e60-a7ca-36c2e1976a60",
+    "type": "bike",
+    "name": "Kids Bicycle",
+    "description": "An Awesome Bike",
+    "price": "284.69",
+    "wheelSize": 26,
+    "color": "Aquamarine",
+    "frameMaterial": "Steel"
+  },
+  {
+    "id": "e166b449-4ad0-41f4-804b-7df2d9d66d6b",
+    "type": "bike",
+    "name": "BMX Bike",
+    "description": "An Awesome Bike",
+    "price": "758.64",
+    "wheelSize": 26,
+    "color": "Goldenrod",
+    "frameMaterial": "Titanium"
+  },
+  {
+    "id": "ab954220-5d2a-4ba3-9dfb-612f9762f1ef",
+    "type": "bike",
+    "name": "Folding Bicycle",
+    "description": "An Amazing Bike",
+    "price": "787.58",
+    "wheelSize": 28,
+    "color": "Yellow",
+    "frameMaterial": "Carbon"
+  },
+  {
+    "id": "01f98956-4201-45a7-a4e5-6a7f50641728",
+    "type": "bike",
+    "name": "Mountain Bike",
+    "description": "An Awesome Bike",
+    "price": "510.99",
+    "wheelSize": 27,
+    "color": "Purple",
+    "frameMaterial": "Titanium"
+  },
+  {
+    "id": "a9676c3d-c12d-4932-b6a8-1e4b88aac41e",
+    "type": "bike",
+    "name": "Kids Bicycle",
+    "description": "An Awesome Bike",
+    "price": "866.30",
+    "wheelSize": 28,
+    "color": "Purple",
+    "frameMaterial": "Steel"
+  },
+  {
+    "id": "905c827e-589c-42ce-a129-56bbb4207ffc",
+    "type": "bike",
+    "name": "Mountain Bike",
+    "description": "An Amazing Bike",
+    "price": "166.93",
+    "wheelSize": 26,
+    "color": "Indigo",
+    "frameMaterial": "Aluminum"
+  },
+  {
+    "id": "06cc973a-11c2-4c06-8b87-3a0f2787acde",
+    "type": "bike",
+    "name": "Mountain Bike",
+    "description": "An Amazing Bike",
+    "price": "353.35",
+    "wheelSize": 27,
+    "color": "Mauv",
+    "frameMaterial": "Titanium"
+  },
+  {
+    "id": "d54a66cf-8da5-496b-9ec7-3d8563068267",
+    "type": "bike",
+    "name": "Folding Bicycle",
+    "description": "An Excellent Bike",
+    "price": "299.47",
+    "wheelSize": 27,
+    "color": "Maroon",
+    "frameMaterial": "Carbon"
+  },
+  {
+    "id": "4e2e61dd-0231-4750-8fa6-3aea44b0c155",
+    "type": "bike",
+    "name": "BMX Bike",
+    "description": "An Excellent Bike",
+    "price": "108.72",
+    "wheelSize": 29,
+    "color": "Red",
+    "frameMaterial": "Titanium"
+  },
+  {
+    "id": "13da1184-d554-4da8-9248-b07e97d0a69e",
+    "type": "bike",
+    "name": "Mountain Bike",
+    "description": "An Awesome Bike",
+    "price": "534.69",
+    "wheelSize": 28,
+    "color": "Teal",
+    "frameMaterial": "Titanium"
+  },
+  {
+    "id": "9bcaf29a-e786-4b1a-9f89-de2d1b79c876",
+    "type": "bike",
+    "name": "BMX Bike",
+    "description": "An Excellent Bike",
+    "price": "184.05",
+    "wheelSize": 29,
+    "color": "Turquoise",
+    "frameMaterial": "Steel"
+  },
+  {
+    "id": "6b0a1f44-0b5f-4b5b-a115-b42e55cc8f5e",
+    "type": "bike",
+    "name": "Electric Bike",
+    "description": "An Excellent Bike",
+    "price": "427.80",
+    "wheelSize": 26,
+    "color": "Green",
+    "frameMaterial": "Titanium"
+  },
+  {
+    "id": "b5290e1f-27de-49be-bf4e-c0a130731fb2",
+    "type": "bike",
+    "name": "Kids Bicycle",
+    "description": "An Amazing Bike",
+    "price": "153.97",
+    "wheelSize": 28,
+    "color": "Goldenrod",
+    "frameMaterial": "Carbon"
+  },
+  {
+    "id": "053c5a7a-edef-4b66-bf73-e334bf578a3e",
+    "type": "bike",
+    "name": "Electric Bike",
+    "description": "An Excellent Bike",
+    "price": "135.31",
+    "wheelSize": 27,
+    "color": "Yellow",
+    "frameMaterial": "Carbon"
+  },
+  {
+    "id": "9c237762-06f4-481c-8392-33d6110e6a03",
+    "type": "bike",
+    "name": "Folding Bicycle",
+    "description": "An Amazing Bike",
+    "price": "226.31",
+    "wheelSize": 26,
+    "color": "Goldenrod",
+    "frameMaterial": "Carbon"
+  },
+  {
+    "id": "9f81767a-9801-44fa-8a8b-42fdf2ff837e",
+    "type": "bike",
+    "name": "BMX Bike",
+    "description": "An Amazing Bike",
+    "price": "545.97",
+    "wheelSize": 29,
+    "color": "Maroon",
+    "frameMaterial": "Aluminum"
+  },
+  {
+    "id": "3f3c8da8-7a48-42be-9eb6-2c5f92a112dc",
+    "type": "bike",
+    "name": "Kids Bicycle",
+    "description": "An Excellent Bike",
+    "price": "88.56",
+    "wheelSize": 26,
+    "color": "Pink",
+    "frameMaterial": "Carbon"
+  },
+  {
+    "id": "60f03a37-6be4-4f09-ac04-11f44d28dba3",
+    "type": "bike",
+    "name": "Kids Bicycle",
+    "description": "An Amazing Bike",
+    "price": "338.75",
+    "wheelSize": 29,
+    "color": "Yellow",
+    "frameMaterial": "Aluminum"
+  },
+  {
+    "id": "698d81e8-8449-4481-9279-5fc35e5062a7",
+    "type": "bike",
+    "name": "Folding Bicycle",
+    "description": "An Awesome Bike",
+    "price": "236.31",
+    "wheelSize": 27,
+    "color": "Mauv",
+    "frameMaterial": "Steel"
+  },
+  {
+    "id": "65489086-bbe7-4fd0-b83f-78075fb34542",
+    "type": "bike",
+    "name": "Mountain Bike",
+    "description": "An Excellent Bike",
+    "price": "358.66",
+    "wheelSize": 27,
+    "color": "Puce",
+    "frameMaterial": "Steel"
+  },
+  {
+    "id": "5210b928-ca47-42ce-b1f3-0a39dd748f69",
+    "type": "bike",
+    "name": "Kids Bicycle",
+    "description": "An Excellent Bike",
+    "price": "689.11",
+    "wheelSize": 29,
+    "color": "Puce",
+    "frameMaterial": "Titanium"
+  },
+  {
+    "id": "10d3c9a3-2cc2-4e2c-b5d6-0c2e179e05e3",
+    "type": "bike",
+    "name": "Mountain Bike",
+    "description": "An Excellent Bike",
+    "price": "130.35",
+    "wheelSize": 26,
+    "color": "Pink",
+    "frameMaterial": "Aluminum"
+  },
+  {
+    "id": "37378a5b-dc5e-40c2-876a-d2840f33d2b5",
+    "type": "bike",
+    "name": "Electric Bike",
+    "description": "An Excellent Bike",
+    "price": "275.44",
+    "wheelSize": 26,
+    "color": "Mauv",
+    "frameMaterial": "Aluminum"
+  },
+  {
+    "id": "bbe94b2e-5843-4105-bfa4-82868853adb8",
+    "type": "bike",
+    "name": "Mountain Bike",
+    "description": "An Amazing Bike",
+    "price": "573.96",
+    "wheelSize": 28,
+    "color": "Puce",
+    "frameMaterial": "Carbon"
+  },
+  {
+    "id": "743cbb90-ddec-4dc5-8104-6a8edb6ddb9a",
+    "type": "bike",
+    "name": "BMX Bike",
+    "description": "An Excellent Bike",
+    "price": "624.90",
+    "wheelSize": 27,
+    "color": "Crimson",
+    "frameMaterial": "Steel"
+  },
+  {
+    "id": "ae6ce09f-d834-4826-8cf0-ace7df32e51c",
+    "type": "bike",
+    "name": "Kids Bicycle",
+    "description": "An Excellent Bike",
+    "price": "67.24",
+    "wheelSize": 28,
+    "color": "Fuscia",
+    "frameMaterial": "Titanium"
+  },
+  {
+    "id": "10f9174f-3030-44e8-9eec-9bf88088143d",
+    "type": "bike",
+    "name": "Folding Bicycle",
+    "description": "An Excellent Bike",
+    "price": "630.16",
+    "wheelSize": 26,
+    "color": "Purple",
+    "frameMaterial": "Titanium"
+  },
+  {
+    "id": "0f103f69-ac89-41d8-b544-e2b27761e4ad",
+    "type": "bike",
+    "name": "Kids Bicycle",
+    "description": "An Amazing Bike",
+    "price": "877.88",
+    "wheelSize": 27,
+    "color": "Teal",
+    "frameMaterial": "Carbon"
+  },
+  {
+    "id": "2581f6c8-0ad3-4c56-b1fa-6bb4a4d092ec",
+    "type": "bike",
+    "name": "Kids Bicycle",
+    "description": "An Excellent Bike",
+    "price": "417.37",
+    "wheelSize": 26,
+    "color": "Maroon",
+    "frameMaterial": "Titanium"
+  },
+  {
+    "id": "009e3e7c-61e4-4073-8773-776c404171b5",
+    "type": "bike",
+    "name": "Kids Bicycle",
+    "description": "An Amazing Bike",
+    "price": "344.06",
+    "wheelSize": 27,
+    "color": "Yellow",
+    "frameMaterial": "Titanium"
+  },
+  {
+    "id": "25297892-7741-4550-9292-9e1e80da8971",
+    "type": "bike",
+    "name": "Kids Bicycle",
+    "description": "An Amazing Bike",
+    "price": "358.83",
+    "wheelSize": 28,
+    "color": "Violet",
+    "frameMaterial": "Carbon"
+  },
+  {
+    "id": "4510587a-fd45-4c1c-afda-c49f9509cefb",
+    "type": "bike",
+    "name": "Folding Bicycle",
+    "description": "An Awesome Bike",
+    "price": "338.70",
+    "wheelSize": 26,
+    "color": "Puce",
+    "frameMaterial": "Aluminum"
+  },
+  {
+    "id": "ee6bb542-76be-4c7d-b7c8-08e6b0e38bae",
+    "type": "bike",
+    "name": "Electric Bike",
+    "description": "An Excellent Bike",
+    "price": "513.33",
+    "wheelSize": 28,
+    "color": "Crimson",
+    "frameMaterial": "Titanium"
+  },
+  {
+    "id": "cbb6787f-fceb-457b-8f21-16b0df23a18b",
+    "type": "bike",
+    "name": "Folding Bicycle",
+    "description": "An Excellent Bike",
+    "price": "529.00",
+    "wheelSize": 27,
+    "color": "Mauv",
+    "frameMaterial": "Steel"
+  },
+  {
+    "id": "b3a38206-369b-4c0f-b96c-1c2cc74935ec",
+    "type": "bike",
+    "name": "BMX Bike",
+    "description": "An Amazing Bike",
+    "price": "556.99",
+    "wheelSize": 27,
+    "color": "Mauv",
+    "frameMaterial": "Steel"
+  },
+  {
+    "id": "1ab9b0ce-3401-4dde-ad34-3c341e3a59dd",
+    "type": "bike",
+    "name": "Electric Bike",
+    "description": "An Awesome Bike",
+    "price": "620.72",
+    "wheelSize": 26,
+    "color": "Pink",
+    "frameMaterial": "Aluminum"
+  },
+  {
+    "id": "ce51d2d3-2b52-411c-8d95-a4081babc4d4",
+    "type": "bike",
+    "name": "Kids Bicycle",
+    "description": "An Awesome Bike",
+    "price": "111.19",
+    "wheelSize": 26,
+    "color": "Orange",
+    "frameMaterial": "Carbon"
+  },
+  {
+    "id": "f703a430-3499-4cc9-98d0-38e96f02e097",
+    "type": "bike",
+    "name": "Electric Bike",
+    "description": "An Excellent Bike",
+    "price": "705.29",
+    "wheelSize": 26,
+    "color": "Red",
+    "frameMaterial": "Aluminum"
+  },
+  {
+    "id": "2408d03d-94bb-4473-9508-6329c456d703",
+    "type": "bike",
+    "name": "Mountain Bike",
+    "description": "An Excellent Bike",
+    "price": "325.38",
+    "wheelSize": 26,
+    "color": "Goldenrod",
+    "frameMaterial": "Steel"
+  },
+  {
+    "id": "1c1558db-8171-47c0-b5c1-3651b8e9d2d2",
+    "type": "bike",
+    "name": "Folding Bicycle",
+    "description": "An Excellent Bike",
+    "price": "263.01",
+    "wheelSize": 26,
+    "color": "Maroon",
+    "frameMaterial": "Carbon"
+  },
+  {
+    "id": "ddbbdd44-d224-4818-b80e-82d50f1bb85a",
+    "type": "bike",
+    "name": "Folding Bicycle",
+    "description": "An Awesome Bike",
+    "price": "406.64",
+    "wheelSize": 29,
+    "color": "Crimson",
+    "frameMaterial": "Aluminum"
+  },
+  {
+    "id": "5d05898a-a968-41d4-a166-8c136fc0a998",
+    "type": "bike",
+    "name": "Folding Bicycle",
+    "description": "An Excellent Bike",
+    "price": "410.95",
+    "wheelSize": 27,
+    "color": "Red",
+    "frameMaterial": "Carbon"
+  },
+  {
+    "id": "f73fdfc1-c3b7-4e3b-aefc-2a7230750747",
+    "type": "bike",
+    "name": "Folding Bicycle",
+    "description": "An Excellent Bike",
+    "price": "828.45",
+    "wheelSize": 27,
+    "color": "Mauv",
+    "frameMaterial": "Aluminum"
+  },
+  {
+    "id": "d7573a24-3ed3-4a91-a25e-5bd30ae6770a",
+    "type": "bike",
+    "name": "BMX Bike",
+    "description": "An Awesome Bike",
+    "price": "260.92",
+    "wheelSize": 29,
+    "color": "Aquamarine",
+    "frameMaterial": "Carbon"
+  },
+  {
+    "id": "fc6a3658-4e9e-4bed-9c97-3c597169a176",
+    "type": "bike",
+    "name": "Folding Bicycle",
+    "description": "An Awesome Bike",
+    "price": "560.59",
+    "wheelSize": 27,
+    "color": "Yellow",
+    "frameMaterial": "Carbon"
+  },
+  {
+    "id": "eb88c888-ff7a-4fad-b510-bd11701daa18",
+    "type": "bike",
+    "name": "BMX Bike",
+    "description": "An Excellent Bike",
+    "price": "681.79",
+    "wheelSize": 26,
+    "color": "Goldenrod",
+    "frameMaterial": "Aluminum"
+  },
+  {
+    "id": "288bf6de-5994-4bdf-a4b7-9158bdd9fe67",
+    "type": "bike",
+    "name": "Mountain Bike",
+    "description": "An Amazing Bike",
+    "price": "369.75",
+    "wheelSize": 29,
+    "color": "Yellow",
+    "frameMaterial": "Carbon"
+  },
+  {
+    "id": "49383e33-8811-4531-a773-33b5d96e8fb5",
+    "type": "bike",
+    "name": "Mountain Bike",
+    "description": "An Awesome Bike",
+    "price": "771.85",
+    "wheelSize": 29,
+    "color": "Blue",
+    "frameMaterial": "Steel"
+  },
+  {
+    "id": "c10cfed1-7a07-46a3-b0b5-609dc6d26434",
+    "type": "bike",
+    "name": "Folding Bicycle",
+    "description": "An Excellent Bike",
+    "price": "564.84",
+    "wheelSize": 28,
+    "color": "Orange",
+    "frameMaterial": "Aluminum"
+  },
+  {
+    "id": "8448c832-acd7-4277-b09c-fc24819f77da",
+    "type": "bike",
+    "name": "Kids Bicycle",
+    "description": "An Awesome Bike",
+    "price": "208.54",
+    "wheelSize": 28,
+    "color": "Orange",
+    "frameMaterial": "Titanium"
+  },
+  {
+    "id": "8d9f0e98-068a-421a-955c-540ca058748e",
+    "type": "bike",
+    "name": "Mountain Bike",
+    "description": "An Amazing Bike",
+    "price": "528.30",
+    "wheelSize": 29,
+    "color": "Pink",
+    "frameMaterial": "Steel"
+  },
+  {
+    "id": "1330bbde-e87d-4722-8a00-eb1ab05fe2f6",
+    "type": "bike",
+    "name": "Mountain Bike",
+    "description": "An Amazing Bike",
+    "price": "578.26",
+    "wheelSize": 27,
+    "color": "Indigo",
+    "frameMaterial": "Steel"
+  },
+  {
+    "id": "913ec770-7bef-4f9c-89df-e54df072274a",
+    "type": "bike",
+    "name": "BMX Bike",
+    "description": "An Awesome Bike",
+    "price": "465.33",
+    "wheelSize": 28,
+    "color": "Yellow",
+    "frameMaterial": "Aluminum"
+  },
+  {
+    "id": "241cbfcf-56cd-4d33-8d62-809a0a294685",
+    "type": "bike",
+    "name": "Folding Bicycle",
+    "description": "An Excellent Bike",
+    "price": "369.30",
+    "wheelSize": 26,
+    "color": "Maroon",
+    "frameMaterial": "Titanium"
+  },
+  {
+    "id": "402b97f0-40ec-451a-abed-dad68dc56966",
+    "type": "bike",
+    "name": "Kids Bicycle",
+    "description": "An Amazing Bike",
+    "price": "216.70",
+    "wheelSize": 28,
+    "color": "Aquamarine",
+    "frameMaterial": "Steel"
+  },
+  {
+    "id": "498c6f25-0f9d-465f-a433-e235b218215d",
+    "type": "bike",
+    "name": "Electric Bike",
+    "description": "An Excellent Bike",
+    "price": "890.03",
+    "wheelSize": 27,
+    "color": "Green",
+    "frameMaterial": "Carbon"
+  },
+  {
+    "id": "4e848198-ac83-405a-a9f9-bcbda3c15fe0",
+    "type": "bike",
+    "name": "Folding Bicycle",
+    "description": "An Excellent Bike",
+    "price": "606.45",
+    "wheelSize": 27,
+    "color": "Goldenrod",
+    "frameMaterial": "Aluminum"
+  },
+  {
+    "id": "573042ac-8618-42a6-af27-4427105c81db",
+    "type": "bike",
+    "name": "Kids Bicycle",
+    "description": "An Excellent Bike",
+    "price": "191.66",
+    "wheelSize": 28,
+    "color": "Fuscia",
+    "frameMaterial": "Carbon"
+  },
+  {
+    "id": "7838857e-40d3-491a-ba5c-d3c9cd5cd1f6",
+    "type": "bike",
+    "name": "Mountain Bike",
+    "description": "An Awesome Bike",
+    "price": "472.71",
+    "wheelSize": 28,
+    "color": "Orange",
+    "frameMaterial": "Carbon"
+  },
+  {
+    "id": "f384aa94-8d0d-45bd-b491-4f5beac1dcfa",
+    "type": "bike",
+    "name": "Kids Bicycle",
+    "description": "An Excellent Bike",
+    "price": "349.81",
+    "wheelSize": 28,
+    "color": "Puce",
+    "frameMaterial": "Titanium"
+  },
+  {
+    "id": "b044dc47-2c77-45fc-b538-beb348bad474",
+    "type": "bike",
+    "name": "Electric Bike",
+    "description": "An Amazing Bike",
+    "price": "779.16",
+    "wheelSize": 27,
+    "color": "Purple",
+    "frameMaterial": "Steel"
+  },
+  {
+    "id": "7e5fec73-519d-4b84-9cba-8f009492f7eb",
+    "type": "bike",
+    "name": "Folding Bicycle",
+    "description": "An Excellent Bike",
+    "price": "776.88",
+    "wheelSize": 27,
+    "color": "Green",
+    "frameMaterial": "Steel"
+  },
+  {
+    "id": "3619245e-fddf-4d38-9a58-eaf6bd21ce45",
+    "type": "bike",
+    "name": "Kids Bicycle",
+    "description": "An Amazing Bike",
+    "price": "728.10",
+    "wheelSize": 29,
+    "color": "Yellow",
+    "frameMaterial": "Aluminum"
+  },
+  {
+    "id": "299385d6-2b00-4dee-84a3-4ac99c3c081d",
+    "type": "bike",
+    "name": "Mountain Bike",
+    "description": "An Amazing Bike",
+    "price": "674.63",
+    "wheelSize": 27,
+    "color": "Red",
+    "frameMaterial": "Titanium"
+  },
+  {
+    "id": "4ea8bdde-6d00-40d5-b7b7-5255be31f1d4",
+    "type": "bike",
+    "name": "Kids Bicycle",
+    "description": "An Excellent Bike",
+    "price": "664.04",
+    "wheelSize": 29,
+    "color": "Crimson",
+    "frameMaterial": "Carbon"
+  },
+  {
+    "id": "0135a9ba-2d1b-4970-91e7-06a26b9ad264",
+    "type": "bike",
+    "name": "Folding Bicycle",
+    "description": "An Excellent Bike",
+    "price": "217.33",
+    "wheelSize": 28,
+    "color": "Green",
+    "frameMaterial": "Titanium"
+  },
+  {
+    "id": "c48bc920-da82-44fd-bdef-edde4d238d5b",
+    "type": "bike",
+    "name": "Kids Bicycle",
+    "description": "An Awesome Bike",
+    "price": "716.61",
+    "wheelSize": 26,
+    "color": "Aquamarine",
+    "frameMaterial": "Titanium"
+  },
+  {
+    "id": "583f2769-fdf4-4818-9975-b2b8a1332183",
+    "type": "bike",
+    "name": "Mountain Bike",
+    "description": "An Excellent Bike",
+    "price": "131.16",
+    "wheelSize": 27,
+    "color": "Turquoise",
+    "frameMaterial": "Titanium"
+  },
+  {
+    "id": "01e121d8-31ba-47c2-82a8-098ee21aff4a",
+    "type": "bike",
+    "name": "Kids Bicycle",
+    "description": "An Awesome Bike",
+    "price": "327.75",
+    "wheelSize": 26,
+    "color": "Purple",
+    "frameMaterial": "Titanium"
+  },
+  {
+    "id": "a994fc75-9b80-42ae-97e9-7634eaa59ff7",
+    "type": "bike",
+    "name": "Electric Bike",
+    "description": "An Awesome Bike",
+    "price": "485.62",
+    "wheelSize": 28,
+    "color": "Puce",
+    "frameMaterial": "Aluminum"
+  },
+  {
+    "id": "69cb3bc9-24bb-48a7-ac3d-9844da5e033e",
+    "type": "bike",
+    "name": "Folding Bicycle",
+    "description": "An Excellent Bike",
+    "price": "492.27",
+    "wheelSize": 26,
+    "color": "Green",
+    "frameMaterial": "Steel"
+  },
+  {
+    "id": "2c2b48c7-2fd7-4a8c-a616-54fdb2276097",
+    "type": "bike",
+    "name": "Electric Bike",
+    "description": "An Excellent Bike",
+    "price": "184.59",
+    "wheelSize": 27,
+    "color": "Mauv",
+    "frameMaterial": "Titanium"
+  },
+  {
+    "id": "2dc45f8b-61de-466c-a7d3-8693ea743ab7",
+    "type": "bike",
+    "name": "Folding Bicycle",
+    "description": "An Amazing Bike",
+    "price": "135.70",
+    "wheelSize": 26,
+    "color": "Violet",
+    "frameMaterial": "Steel"
+  },
+  {
+    "id": "0c9f8c3d-0017-4f41-949c-928cbed22e21",
+    "type": "bike",
+    "name": "BMX Bike",
+    "description": "An Awesome Bike",
+    "price": "237.20",
+    "wheelSize": 29,
+    "color": "Aquamarine",
+    "frameMaterial": "Aluminum"
+  },
+  {
+    "id": "e92902d3-4d6b-47ad-98ff-4c66cf5a864c",
+    "type": "bike",
+    "name": "Folding Bicycle",
+    "description": "An Awesome Bike",
+    "price": "161.22",
+    "wheelSize": 27,
+    "color": "Aquamarine",
+    "frameMaterial": "Steel"
+  },
+  {
+    "id": "d4052dd3-c430-448e-b58f-c0553c924f0e",
+    "type": "bike",
+    "name": "Kids Bicycle",
+    "description": "An Amazing Bike",
+    "price": "871.77",
+    "wheelSize": 28,
+    "color": "Turquoise",
+    "frameMaterial": "Aluminum"
+  },
+  {
+    "id": "952684b9-e331-461b-a9f0-0f72662aa43a",
+    "type": "bike",
+    "name": "Kids Bicycle",
+    "description": "An Amazing Bike",
+    "price": "478.98",
+    "wheelSize": 27,
+    "color": "Turquoise",
+    "frameMaterial": "Steel"
+  },
+  {
+    "id": "34d208c4-b8ed-4ee8-b6ad-2d21975588c7",
+    "type": "bike",
+    "name": "Electric Bike",
+    "description": "An Amazing Bike",
+    "price": "476.22",
+    "wheelSize": 28,
+    "color": "Purple",
+    "frameMaterial": "Carbon"
+  },
+  {
+    "id": "2d9c21d6-626c-49e1-925e-f613e8a729c3",
+    "type": "bike",
+    "name": "BMX Bike",
+    "description": "An Awesome Bike",
+    "price": "155.73",
+    "wheelSize": 28,
+    "color": "Pink",
+    "frameMaterial": "Carbon"
+  },
+  {
+    "id": "1ff6b156-1e7f-48cf-9b47-4de375f343ee",
+    "type": "bike",
+    "name": "Kids Bicycle",
+    "description": "An Awesome Bike",
+    "price": "359.09",
+    "wheelSize": 29,
+    "color": "Goldenrod",
+    "frameMaterial": "Carbon"
+  },
+  {
+    "id": "fb132262-9611-4a15-b51a-90c157c8ce69",
+    "type": "bike",
+    "name": "BMX Bike",
+    "description": "An Awesome Bike",
+    "price": "755.88",
+    "wheelSize": 28,
+    "color": "Maroon",
+    "frameMaterial": "Titanium"
+  },
+  {
+    "id": "64a289f6-d5ea-4be3-9634-0183e7ca63e9",
+    "type": "bike",
+    "name": "Electric Bike",
+    "description": "An Awesome Bike",
+    "price": "524.07",
+    "wheelSize": 29,
+    "color": "Turquoise",
+    "frameMaterial": "Aluminum"
+  },
+  {
+    "id": "43d09215-a154-410d-b61c-362600a941db",
+    "type": "bike",
+    "name": "Folding Bicycle",
+    "description": "An Awesome Bike",
+    "price": "226.93",
+    "wheelSize": 27,
+    "color": "Purple",
+    "frameMaterial": "Titanium"
+  },
+  {
+    "id": "f905c65f-c873-40f8-9939-8c6c642e95c1",
+    "type": "bike",
+    "name": "Mountain Bike",
+    "description": "An Amazing Bike",
+    "price": "514.40",
+    "wheelSize": 29,
+    "color": "Orange",
+    "frameMaterial": "Carbon"
+  },
+  {
+    "id": "214c2c15-ae12-42e2-99cb-ddb27556a96e",
+    "type": "bike",
+    "name": "Mountain Bike",
+    "description": "An Excellent Bike",
+    "price": "654.11",
+    "wheelSize": 28,
+    "color": "Purple",
+    "frameMaterial": "Aluminum"
+  },
+  {
+    "id": "e838f36c-ea86-442a-9950-405c10cc4cf2",
+    "type": "bike",
+    "name": "Electric Bike",
+    "description": "An Excellent Bike",
+    "price": "588.45",
+    "wheelSize": 29,
+    "color": "Goldenrod",
+    "frameMaterial": "Titanium"
+  },
+  {
+    "id": "701417fc-2b43-4f33-863f-f264eb3aeb9e",
+    "type": "bike",
+    "name": "BMX Bike",
+    "description": "An Excellent Bike",
+    "price": "279.02",
+    "wheelSize": 26,
+    "color": "Khaki",
+    "frameMaterial": "Aluminum"
+  },
+  {
+    "id": "d71b6286-74ec-4be9-916c-5fd120612f8b",
+    "type": "bike",
+    "name": "Electric Bike",
+    "description": "An Excellent Bike",
+    "price": "718.46",
+    "wheelSize": 29,
+    "color": "Turquoise",
+    "frameMaterial": "Titanium"
+  },
+  {
+    "id": "5b0359c6-3bb7-410c-9251-a899c247fcdc",
+    "type": "bike",
+    "name": "Electric Bike",
+    "description": "An Amazing Bike",
+    "price": "789.48",
+    "wheelSize": 26,
+    "color": "Maroon",
+    "frameMaterial": "Carbon"
+  },
+  {
+    "id": "c303e27b-cba7-4d87-a055-85291e1b8381",
+    "type": "bike",
+    "name": "BMX Bike",
+    "description": "An Excellent Bike",
+    "price": "279.76",
+    "wheelSize": 29,
+    "color": "Pink",
+    "frameMaterial": "Carbon"
+  },
+  {
+    "id": "7834a0fa-9221-4396-a28e-8067a485a32e",
+    "type": "bike",
+    "name": "Electric Bike",
+    "description": "An Excellent Bike",
+    "price": "603.51",
+    "wheelSize": 26,
+    "color": "Puce",
+    "frameMaterial": "Carbon"
+  },
+  {
+    "id": "492a1927-d253-48f9-aeae-88cb20a13e0a",
+    "type": "bike",
+    "name": "Kids Bicycle",
+    "description": "An Amazing Bike",
+    "price": "333.30",
+    "wheelSize": 28,
+    "color": "Fuscia",
+    "frameMaterial": "Titanium"
+  },
+  {
+    "id": "63577f94-c5fe-4e76-9c39-2fd90d375cd8",
+    "type": "bike",
+    "name": "Folding Bicycle",
+    "description": "An Amazing Bike",
+    "price": "792.50",
+    "wheelSize": 28,
+    "color": "Teal",
+    "frameMaterial": "Carbon"
+  },
+  {
+    "id": "405583e4-47d2-443b-a157-a7c82d9a5e75",
+    "type": "bike",
+    "name": "Electric Bike",
+    "description": "An Awesome Bike",
+    "price": "680.91",
+    "wheelSize": 26,
+    "color": "Mauv",
+    "frameMaterial": "Titanium"
+  },
+  {
+    "id": "1938bfbc-a15f-443f-9bce-84504f1e64ca",
+    "type": "bike",
+    "name": "BMX Bike",
+    "description": "An Awesome Bike",
+    "price": "150.73",
+    "wheelSize": 28,
+    "color": "Indigo",
+    "frameMaterial": "Titanium"
+  },
+  {
+    "id": "3045da05-44ce-4c97-ba45-d90c29cd10d9",
+    "type": "bike",
+    "name": "Kids Bicycle",
+    "description": "An Excellent Bike",
+    "price": "674.40",
+    "wheelSize": 26,
+    "color": "Red",
+    "frameMaterial": "Titanium"
+  },
+  {
+    "id": "2ca93f64-4618-4c2e-912c-81a61b32ee94",
+    "type": "bike",
+    "name": "Mountain Bike",
+    "description": "An Awesome Bike",
+    "price": "763.22",
+    "wheelSize": 26,
+    "color": "Red",
+    "frameMaterial": "Carbon"
+  },
+  {
+    "id": "8976d484-ff2f-46e2-9258-1dc88476a33e",
+    "type": "bike",
+    "name": "Folding Bicycle",
+    "description": "An Amazing Bike",
+    "price": "268.86",
+    "wheelSize": 27,
+    "color": "Maroon",
+    "frameMaterial": "Titanium"
+  },
+  {
+    "id": "4504f818-4702-444c-a0f6-0715ed5b285e",
+    "type": "bike",
+    "name": "Mountain Bike",
+    "description": "An Excellent Bike",
+    "price": "729.36",
+    "wheelSize": 29,
+    "color": "Indigo",
+    "frameMaterial": "Titanium"
+  },
+  {
+    "id": "d6a51e88-1000-4407-a05e-3606476ba6ba",
+    "type": "bike",
+    "name": "BMX Bike",
+    "description": "An Amazing Bike",
+    "price": "659.25",
+    "wheelSize": 27,
+    "color": "Indigo",
+    "frameMaterial": "Titanium"
+  },
+  {
+    "id": "0ad526b8-c21c-4639-824f-e70aef36ce5a",
+    "type": "bike",
+    "name": "Electric Bike",
+    "description": "An Awesome Bike",
+    "price": "55.01",
+    "wheelSize": 28,
+    "color": "Blue",
+    "frameMaterial": "Titanium"
+  },
+  {
+    "id": "ea7b29fc-a5fc-4be2-b433-be9c3e06689d",
+    "type": "bike",
+    "name": "Electric Bike",
+    "description": "An Awesome Bike",
+    "price": "304.95",
+    "wheelSize": 26,
+    "color": "Pink",
+    "frameMaterial": "Titanium"
+  },
+  {
+    "id": "66579039-6b5b-45ee-99c0-72e66e3ac5ab",
+    "type": "bike",
+    "name": "Mountain Bike",
+    "description": "An Excellent Bike",
+    "price": "570.88",
+    "wheelSize": 26,
+    "color": "Maroon",
+    "frameMaterial": "Titanium"
+  },
+  {
+    "id": "ccdbc779-3936-4ec4-a838-0a1b5569a91a",
+    "type": "bike",
+    "name": "Folding Bicycle",
+    "description": "An Excellent Bike",
+    "price": "683.13",
+    "wheelSize": 27,
+    "color": "Crimson",
+    "frameMaterial": "Steel"
+  },
+  {
+    "id": "3375e937-cc48-4c45-9ccb-4d2c7b2c94b4",
+    "type": "bike",
+    "name": "BMX Bike",
+    "description": "An Excellent Bike",
+    "price": "584.84",
+    "wheelSize": 26,
+    "color": "Aquamarine",
+    "frameMaterial": "Aluminum"
+  },
+  {
+    "id": "e133e694-7f08-49eb-8706-9da246ac34b7",
+    "type": "bike",
+    "name": "BMX Bike",
+    "description": "An Amazing Bike",
+    "price": "683.57",
+    "wheelSize": 26,
+    "color": "Khaki",
+    "frameMaterial": "Steel"
+  },
+  {
+    "id": "475e897c-a9ec-4282-9347-e14864cdd5ce",
+    "type": "bike",
+    "name": "Electric Bike",
+    "description": "An Excellent Bike",
+    "price": "374.74",
+    "wheelSize": 29,
+    "color": "Blue",
+    "frameMaterial": "Titanium"
+  },
+  {
+    "id": "f90af1f2-6d01-4ce3-9fe9-a203a3c510d4",
+    "type": "bike",
+    "name": "Mountain Bike",
+    "description": "An Excellent Bike",
+    "price": "294.08",
+    "wheelSize": 28,
+    "color": "Pink",
+    "frameMaterial": "Titanium"
+  },
+  {
+    "id": "93d6d775-728c-481b-b40d-339d34f7e2a0",
+    "type": "bike",
+    "name": "Kids Bicycle",
+    "description": "An Excellent Bike",
+    "price": "397.52",
+    "wheelSize": 28,
+    "color": "Green",
+    "frameMaterial": "Titanium"
+  },
+  {
+    "id": "23cad424-59bb-4887-acbb-d084fbe50a7f",
+    "type": "bike",
+    "name": "Mountain Bike",
+    "description": "An Amazing Bike",
+    "price": "642.21",
+    "wheelSize": 28,
+    "color": "Orange",
+    "frameMaterial": "Carbon"
+  },
+  {
+    "id": "a90595d7-0fc8-4494-a98d-dca4584e7781",
+    "type": "bike",
+    "name": "Folding Bicycle",
+    "description": "An Awesome Bike",
+    "price": "767.90",
+    "wheelSize": 27,
+    "color": "Yellow",
+    "frameMaterial": "Carbon"
+  },
+  {
+    "id": "4a69b599-0214-408f-aa2a-6c2b35c79eb6",
+    "type": "bike",
+    "name": "Electric Bike",
+    "description": "An Amazing Bike",
+    "price": "376.28",
+    "wheelSize": 28,
+    "color": "Goldenrod",
+    "frameMaterial": "Carbon"
+  },
+  {
+    "id": "5100faa1-2531-46ff-af42-55d672e9d5f2",
+    "type": "bike",
+    "name": "Electric Bike",
+    "description": "An Excellent Bike",
+    "price": "68.42",
+    "wheelSize": 28,
+    "color": "Yellow",
+    "frameMaterial": "Steel"
+  },
+  {
+    "id": "872e09f8-918c-4236-b4c3-cf382ef2b4a9",
+    "type": "bike",
+    "name": "Folding Bicycle",
+    "description": "An Amazing Bike",
+    "price": "169.80",
+    "wheelSize": 28,
+    "color": "Fuscia",
+    "frameMaterial": "Titanium"
+  },
+  {
+    "id": "5cf42c4e-c9ff-4306-bda0-9025e5aa8467",
+    "type": "bike",
+    "name": "Folding Bicycle",
+    "description": "An Amazing Bike",
+    "price": "76.75",
+    "wheelSize": 27,
+    "color": "Goldenrod",
+    "frameMaterial": "Carbon"
+  },
+  {
+    "id": "5d3761bd-6c11-45c8-9242-1229be5aa1d0",
+    "type": "bike",
+    "name": "BMX Bike",
+    "description": "An Excellent Bike",
+    "price": "344.53",
+    "wheelSize": 28,
+    "color": "Green",
+    "frameMaterial": "Aluminum"
+  },
+  {
+    "id": "1f3a3c33-bf69-40d2-814c-bd0b2363a719",
+    "type": "bike",
+    "name": "Mountain Bike",
+    "description": "An Awesome Bike",
+    "price": "251.35",
+    "wheelSize": 27,
+    "color": "Pink",
+    "frameMaterial": "Aluminum"
+  },
+  {
+    "id": "2e97c96b-c9ab-432f-8c65-899df93d247d",
+    "type": "bike",
+    "name": "Mountain Bike",
+    "description": "An Amazing Bike",
+    "price": "461.40",
+    "wheelSize": 27,
+    "color": "Indigo",
+    "frameMaterial": "Steel"
+  },
+  {
+    "id": "4ccf869c-f04c-40c3-bcd2-90e7b77708cd",
+    "type": "bike",
+    "name": "Mountain Bike",
+    "description": "An Amazing Bike",
+    "price": "438.64",
+    "wheelSize": 27,
+    "color": "Purple",
+    "frameMaterial": "Carbon"
+  },
+  {
+    "id": "144ff41a-ab1d-4ba5-b2c6-2f6dec993e4b",
+    "type": "bike",
+    "name": "Kids Bicycle",
+    "description": "An Awesome Bike",
+    "price": "223.37",
+    "wheelSize": 29,
+    "color": "Teal",
+    "frameMaterial": "Titanium"
+  },
+  {
+    "id": "5205a129-8d0e-4e07-b5a8-be0b34c7d7a9",
+    "type": "bike",
+    "name": "BMX Bike",
+    "description": "An Amazing Bike",
+    "price": "603.60",
+    "wheelSize": 28,
+    "color": "Crimson",
+    "frameMaterial": "Carbon"
+  },
+  {
+    "id": "c1c5341b-6314-42b5-807c-60809915dbe9",
+    "type": "bike",
+    "name": "Electric Bike",
+    "description": "An Amazing Bike",
+    "price": "489.51",
+    "wheelSize": 28,
+    "color": "Green",
+    "frameMaterial": "Steel"
+  },
+  {
+    "id": "57218a65-79ea-4c67-b1ee-e8bcd48cb3ac",
+    "type": "bike",
+    "name": "BMX Bike",
+    "description": "An Excellent Bike",
+    "price": "880.54",
+    "wheelSize": 29,
+    "color": "Blue",
+    "frameMaterial": "Titanium"
+  },
+  {
+    "id": "fe149aeb-3da4-47c0-938b-0a65f4d3fa4a",
+    "type": "bike",
+    "name": "Electric Bike",
+    "description": "An Excellent Bike",
+    "price": "122.89",
+    "wheelSize": 27,
+    "color": "Blue",
+    "frameMaterial": "Aluminum"
+  },
+  {
+    "id": "49f64890-537b-4f4d-ae3f-0c03c8c2beea",
+    "type": "bike",
+    "name": "Folding Bicycle",
+    "description": "An Awesome Bike",
+    "price": "822.88",
+    "wheelSize": 28,
+    "color": "Goldenrod",
+    "frameMaterial": "Aluminum"
+  },
+  {
+    "id": "7bd5e92d-eb54-4cc3-8d8b-50126e6a0521",
+    "type": "bike",
+    "name": "Electric Bike",
+    "description": "An Amazing Bike",
+    "price": "470.68",
+    "wheelSize": 29,
+    "color": "Khaki",
+    "frameMaterial": "Carbon"
+  },
+  {
+    "id": "e0c256e7-94f4-4b7f-bc88-6010ef0326a5",
+    "type": "bike",
+    "name": "BMX Bike",
+    "description": "An Awesome Bike",
+    "price": "858.16",
+    "wheelSize": 29,
+    "color": "Puce",
+    "frameMaterial": "Titanium"
+  },
+  {
+    "id": "ddd6a6d2-f0c1-4f68-94b8-0d4b24103ea6",
+    "type": "bike",
+    "name": "BMX Bike",
+    "description": "An Excellent Bike",
+    "price": "55.69",
+    "wheelSize": 28,
+    "color": "Violet",
+    "frameMaterial": "Steel"
+  }
+]
