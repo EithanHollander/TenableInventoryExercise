@@ -39,7 +39,7 @@ This will run MongoDB on localhost:27017.
 Open a new termial and clone this repository to your local machine:
 
 ```bash
-git clone <repository-url>
+git clone git@github.com:EithanHollander/TenableInventoryExercise.git
 cd tenable-exercise
 ```
 
