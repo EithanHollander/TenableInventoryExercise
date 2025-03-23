@@ -1,26 +1,3 @@
-// import mongoose, { Document, Schema } from "mongoose";
-
-// export interface IProduct extends Document {
-//   id: string;
-//   type: string;
-//   name: string;
-//   description: string;
-//   price: number;
-//   [key: string]: any;
-// }
-
-// const productSchema = new Schema<IProduct>({
-//   id: { type: String, required: true },
-//   type: { type: String, required: true },
-//   name: { type: String, required: true },
-//   description: { type: String, required: true },
-//   price: { type: Number, required: true },
-// });
-
-// const Product = mongoose.model<IProduct>("Product", productSchema);
-
-// export default Product;
-
 import mongoose, { Schema, Document } from "mongoose";
 
 // Define the base product interface
@@ -30,7 +7,7 @@ interface IProduct extends Document {
   name: string;
   description: string;
   price: number;
-  [key: string]: any;
+  [key: string]: any; //gives up flexibility for Mongo Model
 }
 
 interface Bike extends IProduct {
@@ -71,7 +48,7 @@ interface Shirt extends IProduct {
 export type Product = Bike | Book | Smartphone | Watch | Shirt;
 
 // Define a generic Product schema
-const ProductSchema = new Schema<IProduct>(
+const ProductSchema = new Schema<Product>(
   {
     type: { type: String, required: true },
     name: { type: String, required: true },

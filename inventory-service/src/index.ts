@@ -5,11 +5,11 @@ import { connectToDB } from "./utils/connectToDB";
 import productRoutes from "./routes/productsRoutes";
 
 dotenv.config();
-const app = express();
 const PORT = process.env.PORT || 5001;
 const MONGO_URI =
   process.env.MONGO_URI || "mongodb://localhost:27017/inventory";
 
+const app = express();
 app.use(cors());
 app.use(express.json()); // for parsing application/json
 app.use("/api/v1/products", productRoutes); // Mount the routes

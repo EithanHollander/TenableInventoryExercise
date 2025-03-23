@@ -24,6 +24,7 @@ export const buildAvailableFilters = (products: LeanDocument<Product>[]) => {
     });
   });
 
+  // Sort each list of values
   for (const field in filters) {
     filters[field] = filters[field].sort((a, b) =>
       convertValue(a) < convertValue(b) ? -1 : 1

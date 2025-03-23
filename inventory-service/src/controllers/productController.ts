@@ -1,5 +1,5 @@
 import { Request, Response } from "express";
-import { Product, ProductModel } from "../models/Product";
+import { ProductModel } from "../models/Product";
 import { parseFilters } from "../utils/parseFilters";
 import { buildAvailableFilters } from "../utils/buildAvailableFilters";
 
@@ -11,7 +11,7 @@ export const getProductFilters = async (
 
   try {
     const products = await ProductModel.find({
-      type: productType as Product["type"],
+      type: productType,
     }).lean();
 
     const availableFilters = buildAvailableFilters(products);
@@ -44,7 +44,7 @@ export const getProductsSummary = async (req: Request, res: Response) => {
     ]);
     res.json({ quantities });
   } catch (error) {
-    console.error("Error aggregating products:", error);
+    console.error("Error summarizing products:", error);
     res.status(500).json({ error: "Internal Server Error" });
   }
 };
@@ -85,12 +85,11 @@ export const getProducts = async (
       // Parse the filters and add them to the query
       const filtersObj = parseFilters(filters);
       for (const [key, values] of Object.entries(filtersObj)) {
-        // Assuming `key` is the field and `values` are the values to filter by
         relevantProductsQuery[key] = { $in: values };
       }
     }
 
-    // MongoDB query to find the products with filters and pagination
+    // MongoDB query to find the products with all requirements
     let productsMongoQuery = ProductModel.find(relevantProductsQuery).select(
       "-_id -__v"
     );
