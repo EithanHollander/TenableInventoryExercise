@@ -7,19 +7,19 @@
 
 .filter-action-button.filled {
   border: none;
-  color: white;
-  background-color: #0288d1;
+  color: var(--secondary-text-color);
+  background-color: var(--primary-color);
 
   &:hover {
-    background-color: #0277bd;
+    background-color: var(--dark-color);
   }
 }
 
 .filter-action-button.outline {
-  border: 1px solid #0288d1;
-  color: #0288d1;
+  border: 1px solid var(--primary-color);
+  color: var(--primary-color);
 
   &:hover {
-    background-color: #e1f0ff;
+    background-color: var(--secondary-dark-color);
   }
 }

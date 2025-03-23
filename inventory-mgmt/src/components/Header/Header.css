@@ -1,5 +1,5 @@
 .header {
-  background-color: #0288d1;
+  background-color: var(--primary-color);
   color: white;
   padding: 20px;
   text-align: center;

@@ -1,5 +1,5 @@
 .loader {
-  border: solid #0288d1;
+  border: solid var(--primary-color);
   border-top: solid transparent;
   border-radius: 50%;
   animation: spin 1s linear infinite;

@@ -5,8 +5,8 @@
   justify-content: center;
   align-items: center;
   padding: 20px;
-  background-color: #f1f8ff; /* Light blue background */
-  border: 1px solid #0288d1; /* Blue border to match button color */
+  background-color: var(--secondary-color); /* Light blue background */
+  border: 1px solid var(--primary-color); /* Blue border to match button color */
   border-radius: 8px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Light shadow to create depth */
 }
@@ -14,13 +14,13 @@
 .try-again .try-again-message {
   font-size: 16px;
   font-weight: bold;
-  color: #0288d1; /* Blue color for the error message */
+  color: var(--primary-color);
   margin-bottom: 15px;
 }
 
 .try-again .try-again-button {
-  background-color: #0288d1; /* Main blue button color */
-  color: #fff; /* White text */
+  background-color: var(--primary-color);
+  color: var(--secondary-text-color);
   padding: 10px 20px;
   font-size: 16px;
   font-weight: 600;
@@ -30,7 +30,7 @@
   transition: background-color 0.3s ease, transform 0.3s ease;
 
   &:hover {
-    background-color: #0277bd; /* Darker blue on hover */
+    background-color: var(--dark-color); /* Darker blue on hover */
     transform: scale(1.05); /* Slightly enlarge button on hover */
   }
 

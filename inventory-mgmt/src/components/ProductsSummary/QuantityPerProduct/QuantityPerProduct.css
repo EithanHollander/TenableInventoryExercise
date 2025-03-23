@@ -2,7 +2,7 @@
   padding: 12px 15px;
   margin-bottom: 8px;
   border-radius: 6px;
-  background-color: #f5faff;
+  background-color: var(--secondary-color);
   cursor: pointer;
   transition: background-color 0.3s, transform 0.2s ease;
   display: flex;
@@ -17,21 +17,21 @@
 
 .quantity-per-product .product-amount {
   font-size: 0.85rem;
-  color: black;
+  color: var(--primary-text-color);
   opacity: 0.5;
 }
 
 .quantity-per-product:hover {
-  background-color: #e1f0ff;
+  background-color: var(--secondary-dark-color);
   transform: scale(1.02);
 }
 
 .quantity-per-product.selected {
-  background-color: #0288d1;
-  color: white;
+  background-color: var(--primary-color);
+  color: var(--secondary-text-color);
 }
 
 .quantity-per-product.selected .product-amount {
-  color: white;
+  color: var(--secondary-text-color);
   opacity: 1;
 }

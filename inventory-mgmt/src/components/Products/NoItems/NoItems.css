@@ -7,18 +7,18 @@
   font-size: 1.2rem;
   font-weight: bold;
   border-radius: 8px;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15); /* Nice shadow effect */
-  background-color: #f1f8ff; /* Light blue background */
-  border: 1px solid #0288d1; /* Blue border to match button color */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+  background-color: var(--secondary-color);
+  border: 1px solid var(--primary-color);
 }
 
 .no-items-container .no-items-icon {
   width: 32px;
   height: 32px;
   margin-bottom: 8px;
-  color: #0288d1; /* Blue icon */
+  color: var(--primary-color);
 }
 
 .no-items-container .no-items-message {
-  color: #0288d1; /* Blue color for the error message */
+  color: var(--primary-color);
 }

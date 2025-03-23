@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import _ from "lodash";
 import { AllPossibleProductFields, Product } from "@/types/product";
+import { Filters } from "@/types/filters";
 import { SortBy } from "@/types/product_details";
 import { Loader } from "@/components/Loader/Loader";
 import { ErrorMessage } from "@/components/ErrorMessage/ErrorMessage";
@@ -8,18 +9,20 @@ import { useProductDetails } from "@/hooks/useProductDetails";
 import { useFilters } from "@/hooks/useFilters";
 import { ColumnRenderes, DynamicTable } from "./DynamicTable/DynamicTable";
 import { TryAgain } from "./TryAgain/TryAgain";
-import "./Products.css";
-import { Filters } from "@/types/filters";
 import { NoItems } from "./NoItems/NoItems";
+import "./Products.css";
 
 interface ProductsTableProps {
   productType?: Product["type"];
 }
 
+// Feel Free to add a new renderer based on the existing fields of the different products!
 const columnRenderers: ColumnRenderes = {
-  price: (value: unknown) => `$${value as string}`,
   name: (value: unknown) => <strong>{value as string}</strong>,
+  price: (value: unknown) => `$${value as string}`,
+  cameraMegapixels: (value: unknown) => `${value as number}MP`,
 };
+const columnsToFilterOut: AllPossibleProductFields[] = ["type"];
 
 export function Products({ productType }: ProductsTableProps) {
   const [sortBy, setSortBy] = useState<SortBy | null>(null);
@@ -92,7 +95,7 @@ export function Products({ productType }: ProductsTableProps) {
         sortBy={sortBy}
         filters={productFilters?.filters}
         appliedFilters={appliedFilters}
-        columnsToFilterOut={["type"]}
+        columnsToFilterOut={columnsToFilterOut}
         renderers={columnRenderers}
         onReachEndOfTable={handleReachEnd}
         onSortChange={handleSortChanged}

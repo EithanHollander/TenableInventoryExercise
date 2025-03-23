@@ -7,8 +7,8 @@
 }
 
 .dynamic-table {
-  width: max-content; /* Makes sure table takes as much width as needed */
-  min-width: 100%; /* Ensures it doesn't shrink too much */
+  width: max-content;
+  min-width: 100%;
   border-collapse: collapse;
   border-radius: 10px;
 }
@@ -31,21 +31,21 @@
 .dynamic-table thead {
   position: sticky;
   top: 0;
-  z-index: 2; /* Ensures it stays above the table body */
+  z-index: 2;
 }
 
 .dynamic-table th,
 .dynamic-table td {
   padding: 8px;
   text-align: left;
-  border-bottom: 1px solid #ddd;
-  word-wrap: break-word; /* Ensures long words wrap */
+  border-bottom: 1px solid var(--border-color);
+  word-wrap: break-word;
   overflow-wrap: break-word;
-  white-space: normal; /* Allows multiple lines */
+  white-space: normal;
 }
 
 .dynamic-table th {
-  background-color: #0288d1;
+  background-color: var(--primary-color);
   color: white;
   text-align: left;
   padding: 12px;
@@ -55,14 +55,14 @@
 .dynamic-table td {
   padding: 10px;
   text-align: left;
-  border-bottom: 1px solid #ddd;
+  border-bottom: 1px solid var(--border-color);
   font-size: 14px;
 }
 
 .dynamic-table tr:nth-child(even) {
-  background-color: #f8f9fa; /* Light gray for even rows */
+  background-color: var(--secondary-color);
 }
 
 .dynamic-table tr:nth-child(odd) {
-  background-color: #ffffff; /* White for odd rows */
+  background-color: var(--secondary-dark-color);
 }

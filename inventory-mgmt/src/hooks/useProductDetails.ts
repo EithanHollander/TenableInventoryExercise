@@ -43,8 +43,9 @@ const fetchProductDetails = async ({
         product_type: productType,
         limit: PAGE_SIZE,
         page: pageParam,
-        sortby_field: sortByField,
-        sortby_order: sortByOrder,
+        ...(sortByField
+          ? { sortby_field: sortByField, sortby_order: sortByOrder }
+          : {}),
         ...(filtersEncoded ? { filters: filtersEncoded } : {}),
       },
     }

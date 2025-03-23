@@ -5,6 +5,16 @@
   --font-mono: var(--font-geist-mono);
 }
 
+:root {
+  --primary-color: #0288d1;
+  --secondary-color: #f5faff;
+  --dark-color: #0277bd;
+  --secondary-dark-color: #e1f0ff;
+  --primary-text-color: black;
+  --secondary-text-color: white;
+  --border-color: #ddd;
+}
+
 body {
   font-family: Arial, Helvetica, sans-serif;
   width: 100vw;
