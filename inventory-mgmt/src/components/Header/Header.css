@@ -1,6 +1,6 @@
 .header {
   background-color: var(--primary-color);
-  color: white;
+  color: var(--secondary-text-color);
   padding: 20px;
   text-align: center;
   font-size: 26px;

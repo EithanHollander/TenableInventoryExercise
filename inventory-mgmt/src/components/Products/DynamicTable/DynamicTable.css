@@ -46,7 +46,7 @@
 
 .dynamic-table th {
   background-color: var(--primary-color);
-  color: white;
+  color: var(--secondary-text-color);
   text-align: left;
   padding: 12px;
   font-size: 16px;
